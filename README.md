@@ -9,6 +9,7 @@
   - [Arduino](#arduino)
   - [AutoHotkey](#autohotkey)
   - [AutoIt](#autoit)
+  - [Awk](#awk)
   - [BitBake](#bitbake)
   - [C](#c)
   - [C#](#c#)
@@ -112,6 +113,10 @@
 ## AutoIt 
 
 - [Vistumbler](https://github.com/acalcutt/Vistumbler) - A wireless network scanner written in AutoIT for Windows 10, 8, 7, and vista. VistumblerMDB is the current version of Vistumbler.
+
+## Awk 
+
+- [translate-shell](https://github.com/soimort/translate-shell) - :speech_balloon: Command-line translator using Google Translate, Bing Translator, Yandex.Translate, etc.
 
 ## BitBake 
 
@@ -382,6 +387,7 @@
 
 ## C# # 
 
+- [DocumentTranslator](https://github.com/MicrosoftTranslator/DocumentTranslator) - Microsoft Document Translator
 - [ChromeCast-Desktop-Audio-Streamer](https://github.com/SamDel/ChromeCast-Desktop-Audio-Streamer) - Stream the sound of your desktop to your Chromecast Audio device
 - [AssistantComputerControl](https://github.com/AlbertMN/AssistantComputerControl) - Control your computer with your Google Home or Amazon Alexa assistant!
 - [Adamantium-Thief](https://github.com/LimerBoy/Adamantium-Thief) - :key: Decrypt chromium based browsers passwords, cookies, credit cards, history, bookmarks, autofill. Version &gt; 80 is supported.
@@ -1886,6 +1892,10 @@
 
 ## JavaScript 
 
+- [google-translate-api](https://github.com/matheuss/google-translate-api) - A free and unlimited API for Google Translate :dollar::no_entry_sign:
+- [commander.js](https://github.com/tj/commander.js) - node.js command-line interfaces made easy
+- [30-Days-Of-JavaScript](https://github.com/Asabeneh/30-Days-Of-JavaScript) - 30 days of JavaScript programming challenge is a step by step guide to learn JavaScript programming language in 30 days. This challenge may take up to 100 days,  please just follow your own pace.
+- [engineer-manager](https://github.com/ryanburgess/engineer-manager) - A list of engineering manager resource links.
 - [how2](https://github.com/santinic/how2) - stackoverflow from the terminal
 - [d3-graphviz](https://github.com/magjac/d3-graphviz) - Graphviz DOT rendering and animated transitions using D3
 - [normalizr](https://github.com/paularmstrong/normalizr) - Normalizes nested JSON according to a schema
@@ -2832,7 +2842,7 @@
 
 ## Others 
 
-- [arbal-starred](https://github.com/arbal/arbal-starred) - My/Arbal's starred repositories on GitHub
+- [arbal-starred](https://github.com/arbal/arbal-starred) - My [Arbal's] starred repositories on GitHub
 - [iterm2-snazzy](https://github.com/sindresorhus/iterm2-snazzy) - Elegant iTerm2 theme with bright colors
 - [Thor](https://github.com/AngelLM/Thor) - DIY 3D Printable Robotic Arm
 - [NorthKoreaDNSLeak](https://github.com/mandatoryprogrammer/NorthKoreaDNSLeak) - Snapshot of North Korea's DNS data taken from zone transfers.
@@ -3302,6 +3312,7 @@
 
 ## PHP 
 
+- [google-translate-php](https://github.com/Stichoza/google-translate-php) - 🌐 Free Google Translate API PHP Package. Translates totally free of charge.
 - [WifiDB](https://github.com/acalcutt/WifiDB) - Vistumbler WifiDB - A set of scripts and tools to manage Wireless Access Points gathered with Vistumber. (Forked from our original project https://github.com/RIEI/WiFiDB)
 - [MISP](https://github.com/MISP/MISP) - MISP (core software) - Open Source Threat Intelligence and Sharing Platform (formely known as Malware Information Sharing Platform)
 - [monica](https://github.com/monicahq/monica) - Personal CRM. Remember everything about your friends, family and business relationships.
@@ -3461,6 +3472,11 @@
 
 ## Python 
 
+- [LibreTranslate](https://github.com/uav4geo/LibreTranslate) - Free and Open Source Machine Translation API. 100% self-hosted, no limits, no ties to proprietary services. Built on top of Argos Translate.
+- [deep-translator](https://github.com/nidhaloff/deep-translator) - A flexible free and unlimited python tool to translate between different languages in a simple way using multiple translators.
+- [english-please](https://github.com/us/english-please) - Offer for repositories whose README are written in Chinese.
+- [HelloGitHub](https://github.com/arbal/HelloGitHub) - :octocat: Find pearls on open-source seashore 分享 GitHub 上有趣、入门级的开源项目
+- [starred](https://github.com/arbal/starred) - creating your own Awesome List by GitHub stars!
 - [HelloGitHub](https://github.com/521xueweihan/HelloGitHub) - :octocat: Find pearls on open-source seashore 分享 GitHub 上有趣、入门级的开源项目
 - [starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars!
 - [geotag2kml](https://github.com/forensenellanebbia/geotag2kml) - Creates a Google Earth .KML file from geotagged photos/videos
@@ -4260,6 +4276,7 @@
 - [deep_eye](https://github.com/khaixcore/deep_eye) - DeepEye is a surveillance application leveraging the current sate of art deep learning and computer vision techniques. Current back-end framework uses Google Object Detection Api for object detection and tracking. It is open-source and feel free to modify for your own usage.
 - [Kindler](https://github.com/ytisf/Kindler) - An E-Ink Raspberry Pi PhotoFrame DIY Project
 - [rpy-frame](https://github.com/peterdolenc/rpy-frame) - RPy-Frame is a python software made for Raspberry PI that enables you to make your own awesome-looking budget digital photo frame.
+- [cobbler](https://github.com/cobbler/cobbler) - Cobbler is a versatile Linux deployment server
 - [cobbler](https://github.com/cobbler/cobbler) - Cobbler is a versatile Linux deployment server
 - [Responder](https://github.com/SpiderLabs/Responder) - Responder is a LLMNR, NBT-NS and MDNS poisoner, with built-in HTTP/SMB/MSSQL/FTP/LDAP rogue authentication server supporting NTLMv1/NTLMv2/LMv2, Extended Security NTLMSSP and Basic HTTP authentication.
 - [smart-home](https://github.com/bachya/smart-home) - ⭐ (Almost) everything needed to run my smart home with Home Assistant and more!
@@ -5567,6 +5584,10 @@
 
 ## TypeScript 
 
+- [CopyTranslator](https://github.com/CopyTranslator/CopyTranslator) - Foreign language reading and translation assistant based on copy and translate.
+- [setup-python](https://github.com/actions/setup-python) - Set up your GitHub Actions workflow with a specific version of python
+- [checkout](https://github.com/actions/checkout) - Action for checking out a repo
+- [github-script](https://github.com/actions/github-script) - Write workflows scripting the GitHub API in JavaScript
 - [survey-creator](https://github.com/surveyjs/survey-creator) - Online Survey Creator / Form Builder. See it in action:
 - [mapper](https://github.com/geo6/mapper) - Display (and query) geographical data (WMS, WMTS, GeoJSON, KML, GPX, CSV).
 - [syntax-highlighter](https://github.com/EvgeniyPeshkov/syntax-highlighter) - Syntax Highlighter extension for Visual Studio Code (VSCode). Based on Tree-sitter.
