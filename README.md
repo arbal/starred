@@ -4277,7 +4277,6 @@
 - [Kindler](https://github.com/ytisf/Kindler) - An E-Ink Raspberry Pi PhotoFrame DIY Project
 - [rpy-frame](https://github.com/peterdolenc/rpy-frame) - RPy-Frame is a python software made for Raspberry PI that enables you to make your own awesome-looking budget digital photo frame.
 - [cobbler](https://github.com/cobbler/cobbler) - Cobbler is a versatile Linux deployment server
-- [cobbler](https://github.com/cobbler/cobbler) - Cobbler is a versatile Linux deployment server
 - [Responder](https://github.com/SpiderLabs/Responder) - Responder is a LLMNR, NBT-NS and MDNS poisoner, with built-in HTTP/SMB/MSSQL/FTP/LDAP rogue authentication server supporting NTLMv1/NTLMv2/LMv2, Extended Security NTLMSSP and Basic HTTP authentication.
 - [smart-home](https://github.com/bachya/smart-home) - ⭐ (Almost) everything needed to run my smart home with Home Assistant and more!
 - [ssh-audit](https://github.com/jtesta/ssh-audit) - SSH server & client auditing (banner, key exchange, encryption, mac, compression, compatibility, security, etc)
@@ -4738,6 +4737,7 @@
 
 ## Rust 
 
+- [tauri](https://github.com/tauri-apps/tauri) - Build smaller, faster, and more secure desktop applications with a web frontend.
 - [dua-cli](https://github.com/Byron/dua-cli) - View disk space usage and delete unwanted data, fast.
 - [tree-sitter](https://github.com/tree-sitter/tree-sitter) - An incremental parsing system for programming tools
 - [mcfly](https://github.com/cantino/mcfly) - Fly through your shell history. Great Scott!
