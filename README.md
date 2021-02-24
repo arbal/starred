@@ -124,6 +124,9 @@
 
 ## C 
 
+- [vnstat](https://github.com/vergoh/vnstat) - vnStat - a network traffic monitor for Linux and BSD
+- [stratux](https://github.com/cyoung/stratux) - Aviation weather and traffic receiver based on RTL-SDR.
+- [nuster](https://github.com/jiangwenyuan/nuster) - A high performance HTTP proxy cache server and RESTful NoSQL cache server based on HAProxy
 - [smartdns](https://github.com/pymumu/smartdns) - A local DNS server to obtain the fastest website IP for the best Internet experience， 一个本地DNS服务器，获取最快的网站IP，获得最佳上网体验。
 - [QLMarkdownGFM](https://github.com/Watson1978/QLMarkdownGFM) - Quicklook plugin for Github Flavored Markdown
 - [ccze](https://github.com/madhouse/ccze) - A robust, modular log coloriser
@@ -387,6 +390,9 @@
 
 ## C# # 
 
+- [OpenDirectoryDownloader](https://github.com/KoalaBear84/OpenDirectoryDownloader) - Indexes open directories
+- [tzsp_packetstream_exporter](https://github.com/prometheus-net/tzsp_packetstream_exporter) - Analyze a real-time IPv4 packet stream and export metrics about the data flows
+- [MndpTray](https://github.com/xmegz/MndpTray) - MNDP Mikrotik Neighbor Discovery Protocol Tray Application
 - [DocumentTranslator](https://github.com/MicrosoftTranslator/DocumentTranslator) - Microsoft Document Translator
 - [ChromeCast-Desktop-Audio-Streamer](https://github.com/SamDel/ChromeCast-Desktop-Audio-Streamer) - Stream the sound of your desktop to your Chromecast Audio device
 - [AssistantComputerControl](https://github.com/AlbertMN/AssistantComputerControl) - Control your computer with your Google Home or Amazon Alexa assistant!
@@ -800,6 +806,8 @@
 
 ## Go 
 
+- [httplab](https://github.com/gchaincl/httplab) - The interactive web server
+- [mikrocount](https://github.com/johanmeiring/mikrocount) - Mikrotik accounting data aggregation and visualisation
 - [osx-callhistory-decryptor](https://github.com/rusq/osx-callhistory-decryptor) - macOS (incl big sur) call history decryptor/converter to CSV format
 - [gotop](https://github.com/xxxserxxx/gotop) - A terminal based graphical activity monitor inspired by gtop and vtop
 - [vegeta](https://github.com/tsenart/vegeta) - HTTP load testing tool and library. It's over 9000!
@@ -1661,6 +1669,7 @@
 
 ## HTML 
 
+- [trust_stores_observatory](https://github.com/nabla-c0d3/trust_stores_observatory) - Continuously monitor and record the content of the major platforms' root certificate stores.
 - [blahdns](https://github.com/ookangzheng/blahdns) - A small hobby ads block dns project with doh, dot, dnscrypt support.
 - [youtube-scrape](https://github.com/HermanFassett/youtube-scrape) - Scrape YouTube searches (API)
 - [zigbee](https://github.com/blakadder/zigbee) - Database of Zigbee devices compatible with third party gateways: ZHA, deCONZ, Zigbee2MQTT, Tasmota, ZiGate, ioBroker,
@@ -1892,6 +1901,12 @@
 
 ## JavaScript 
 
+- [github-traffic-viewer-website](https://github.com/Mokkapps/github-traffic-viewer-website) - A website which shows a list of traffic graphs of your own GitHub repositories
+- [trafficator](https://github.com/humanmade/trafficator) - Traffic generator for local analytics testing
+- [ytdl-webserver](https://github.com/Algram/ytdl-webserver) - 📻 Webserver for downloading youtube videos. Ready for docker.
+- [https-everywhere](https://github.com/EFForg/https-everywhere) - A browser extension that encrypts your communications with many websites that offer HTTPS but still allow unencrypted connections.
+- [express-jwt](https://github.com/auth0/express-jwt) - connect/express middleware that validates a JsonWebToken (JWT) and set the req.user with the attributes
+- [prometheus-mndp-autodiscovery](https://github.com/patagonaa/prometheus-mndp-autodiscovery) - Prometheus autodiscovery for Mikrotik devices
 - [google-translate-api](https://github.com/matheuss/google-translate-api) - A free and unlimited API for Google Translate :dollar::no_entry_sign:
 - [commander.js](https://github.com/tj/commander.js) - node.js command-line interfaces made easy
 - [30-Days-Of-JavaScript](https://github.com/Asabeneh/30-Days-Of-JavaScript) - 30 days of JavaScript programming challenge is a step by step guide to learn JavaScript programming language in 30 days. This challenge may take up to 100 days,  please just follow your own pace.
@@ -3312,6 +3327,9 @@
 
 ## PHP 
 
+- [Mikrotik-Logging](https://github.com/developerdevice/Mikrotik-Logging) - Mikrotik Log view in real time
+- [zonemanager](https://github.com/zonemanager/zonemanager) - Central DNS/DHCP database with replication to Amazon Route53, BIND, MikroTik routers and other services.
+- [plugin_mikrotik](https://github.com/Cacti/plugin_mikrotik) - Mikrotik Plugin for Cacti
 - [google-translate-php](https://github.com/Stichoza/google-translate-php) - 🌐 Free Google Translate API PHP Package. Translates totally free of charge.
 - [WifiDB](https://github.com/acalcutt/WifiDB) - Vistumbler WifiDB - A set of scripts and tools to manage Wireless Access Points gathered with Vistumber. (Forked from our original project https://github.com/RIEI/WiFiDB)
 - [MISP](https://github.com/MISP/MISP) - MISP (core software) - Open Source Threat Intelligence and Sharing Platform (formely known as Malware Information Sharing Platform)
@@ -3412,6 +3430,7 @@
 
 ## Perl 
 
+- [smokeping-OpenSSHMikrotikRouterOSPing](https://github.com/tonydm/smokeping-OpenSSHMikrotikRouterOSPing) - Smokeping SSH Probe for Mikrotik RouterOS
 - [useful-scripts](https://github.com/rackerlabs/useful-scripts) - A collections of useful Linux investigation tools
 - [nipe](https://github.com/htrgouvea/nipe) - An engine to make Tor network your default gateway
 - [everything-curl](https://github.com/bagder/everything-curl) - The book documenting the curl project, the curl tool, libcurl and everything related to this.
@@ -3472,6 +3491,18 @@
 
 ## Python 
 
+- [repository-traffic-action](https://github.com/sangonzal/repository-traffic-action) - GitHub action to save insights past the default 2 week period
+- [github-traffic-stats](https://github.com/IBM-Cloud/github-traffic-stats) - Manage and automatically collect Github traffic statistics for repositories
+- [github-traffic-stats](https://github.com/nchah/github-traffic-stats) - Get statistics on web traffic to your GitHub repositories.
+- [website-fingerprinting](https://github.com/wisepythagoras/website-fingerprinting) - Deanonymizing Tor or VPN users with website fingerprinting and machine learning.
+- [Multi-Camera-Live-Object-Tracking](https://github.com/LeonLok/Multi-Camera-Live-Object-Tracking) - Multi-camera live traffic and object counting with YOLO v4, Deep SORT, and Flask.
+- [speed-camera](https://github.com/pageauc/speed-camera) - A Unix, Windows, Raspberry Pi Object Speed Camera using python, opencv, video streaming, motion tracking.  Includes a Standalone Web Server Interface, Image Search using opencv template match and a whiptail Admin Menu Interface  Includes picam and webcam Plugins for motion track security camera configuration including rclone sync script.  watch-app allows remotely controller camera configuration from a remote storage service name. Uses sqlite3 and gnuplot for reporting. Recently added openalpr license plate reader support.
+- [shcheck](https://github.com/meliot/shcheck) - Just a basic tool to check security headers
+- [pshtt](https://github.com/cisagov/pshtt) - Scan domains and return data based on HTTPS best practices
+- [privacyidea](https://github.com/privacyidea/privacyidea) - :closed_lock_with_key: multi factor authentication system (2FA, MFA, OTP Server)
+- [mikrotik-distributed-ssh](https://github.com/krsmanovic/mikrotik-distributed-ssh) - Python script that connects to MikroTik routers via ssh and executes list of commands. Both inventory and command lists are loaded from external files. Create separate log entries for successful connections and errors.
+- [MikrotikSploit](https://github.com/0x802/MikrotikSploit) - MikrotikSploit is a script that searches for and exploits Mikrotik network vulnerabilities
+- [MNDP_sender](https://github.com/den1s/MNDP_sender) - MikroTik Neighbor Discovery Protocol (MNDP) sender
 - [LibreTranslate](https://github.com/uav4geo/LibreTranslate) - Free and Open Source Machine Translation API. 100% self-hosted, no limits, no ties to proprietary services. Built on top of Argos Translate.
 - [deep-translator](https://github.com/nidhaloff/deep-translator) - A flexible free and unlimited python tool to translate between different languages in a simple way using multiple translators.
 - [english-please](https://github.com/us/english-please) - Offer for repositories whose README are written in Chinese.
@@ -4599,6 +4630,8 @@
 
 ## Rascal 
 
+- [mikrotik_maxslug](https://github.com/maxslug/mikrotik_maxslug) - Mikrotik configuration files for a moderately complex home network with managed access points, FTTH with authentication, multiple ISPs with failover, secure DNS, and VLANs.
+- [vrrp_with_sync_mikrotik](https://github.com/elmaxid/vrrp_with_sync_mikrotik) - Script for VRRP with sync config for MikroTik RouterOS
 - [ROS_Scripts](https://github.com/Lillecarl/ROS_Scripts) - Scripts for RouterOS (MikroTik devices)
 - [Mikrotik-RouterOS-automatic-backup-and-update](https://github.com/beeyev/Mikrotik-RouterOS-automatic-backup-and-update) - Script sends backups to email and keep your mikrotik firmware up to date.
 - [mikrotik-scripts](https://github.com/Disassembler0/mikrotik-scripts) - Set of various administrative scripts, tips and tricks for MikroTik
@@ -4737,6 +4770,8 @@
 
 ## Rust 
 
+- [binserve](https://github.com/mufeedvh/binserve) - A blazingly fast static web server with routing, templating, and security in a single binary you can set up with zero code. :zap::crab:
+- [http](https://github.com/thecoshman/http) - Host These Things Please - a basic http server for hosting a folder fast and simply
 - [tauri](https://github.com/tauri-apps/tauri) - Build smaller, faster, and more secure desktop applications with a web frontend.
 - [dua-cli](https://github.com/Byron/dua-cli) - View disk space usage and delete unwanted data, fast.
 - [tree-sitter](https://github.com/tree-sitter/tree-sitter) - An incremental parsing system for programming tools
@@ -4879,6 +4914,10 @@
 
 ## Shell 
 
+- [docker-http-https-echo](https://github.com/mendhak/docker-http-https-echo) - Docker image that echoes request data as JSON; listens on HTTP/S, useful for debugging.
+- [nginx-admins-handbook](https://github.com/trimstray/nginx-admins-handbook) - How to improve NGINX performance, security, and other important things.
+- [self-signed-ssl](https://github.com/loganstellway/self-signed-ssl) - Generate self-signed TLS certificate using OpenSSL
+- [Mikrotik-backups](https://github.com/Volkov-R-Net/Mikrotik-backups) - Mikrotik centralized backup script
 - [bw-cache-update](https://github.com/luckman212/bw-cache-update) - Script to resync Bitwarden secrets in the background on a schedule. Meant to be used with https://github.com/blacs30/bitwarden-alfred-workflow
 - [screenFetch](https://github.com/KittyKatt/screenFetch) - Fetches system/theme information in terminal for Linux desktop screenshots.
 - [docker-vdirsyncer](https://github.com/kaergel/docker-vdirsyncer) - A docker container which syncs your CalDAV/CardDAV calendars/addressbooks periodically
@@ -5584,6 +5623,9 @@
 
 ## TypeScript 
 
+- [network-fingerprinter](https://github.com/AlexanderLevenskikh/network-fingerprinter) - Purely passive OS and application fingerprinting system
+- [perf-tools](https://github.com/artifact-project/perf-tools) - ⏱→ 🚀A set of tools for improving performance your application (balancer, performance, PerfKeeper, LazyPromise).
+- [http-timer](https://github.com/szmarczak/http-timer) - 🕐 Performance timings for HTTP requests
 - [CopyTranslator](https://github.com/CopyTranslator/CopyTranslator) - Foreign language reading and translation assistant based on copy and translate.
 - [setup-python](https://github.com/actions/setup-python) - Set up your GitHub Actions workflow with a specific version of python
 - [checkout](https://github.com/actions/checkout) - Action for checking out a repo
