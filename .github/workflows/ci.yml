@@ -18,7 +18,7 @@ jobs:
     - name: Install dependencies
       run: |
         python -m pip install --upgrade pip
-        pip install -U pycodestyle
+        pip install -U pycodestyle setuptools-rust
         python setup.py install
     - name: pycodestyle
       run: pycodestyle --max-line-length=100 starred
