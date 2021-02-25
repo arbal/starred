@@ -316,6 +316,7 @@
 - [tmux-MacOSX-pasteboard](https://github.com/ChrisJohnsen/tmux-MacOSX-pasteboard) - Notes and workarounds for accessing the Mac OS X pasteboard in tmux sessions. Note: The pu branch (“Proposed Updates”) may be rewound without notice.
 - [zstd](https://github.com/facebook/zstd) - Zstandard - Fast real-time compression algorithm
 - [osquery-extensions](https://github.com/trailofbits/osquery-extensions) - osquery extensions by Trail of Bits
+- [cockpit](https://github.com/cockpit-project/cockpit) - There's code a goin' on
 - [hss](https://github.com/six-ddc/hss) - An interactive parallel ssh client featuring autocomplete and asynchronous execution.
 - [minisatip](https://github.com/catalinii/minisatip) - minisatip is an SATIP server for linux using local DVB-S2, DVB-C, DVB-T or ATSC cards
 - [firejail](https://github.com/netblue30/firejail) - Linux namespaces and seccomp-bpf sandbox
@@ -465,6 +466,7 @@
 
 ## C++ 
 
+- [QLMarkdown](https://github.com/sbarex/QLMarkdown) - Quick Look extension for Markdown files on macOS Catalina and Big Sur.
 - [PyMeshLab](https://github.com/cnr-isti-vclab/PyMeshLab) - The open source mesh processing python library
 - [meshlab](https://github.com/cnr-isti-vclab/meshlab) - The open source mesh processing system
 - [dust3d](https://github.com/huxingyi/dust3d) - :dromedary_camel: Dust3D is a cross-platform open-source 3D modeling software. Auto UV unwrapping, auto rigging with PBR Material support, pose and motion authoring all in one.
@@ -589,7 +591,6 @@
 - [libbitcoin-explorer](https://github.com/libbitcoin/libbitcoin-explorer) - Bitcoin Command Line Tool
 - [chkservice](https://github.com/linuxenko/chkservice) - Systemd units manager with ncurses, terminal interface
 - [opencv](https://github.com/opencv/opencv) - Open Source Computer Vision Library
-- [openvslam](https://github.com/xdspacelab/openvslam) - OpenVSLAM: A Versatile Visual SLAM Framework
 - [RTSPAllTheThings](https://github.com/Ullaakut/RTSPAllTheThings) - Deprecated RTSP media server -- Use github.com/aler9/rtsp-simple-server instead.
 - [CubicSDR](https://github.com/cjcliffe/CubicSDR) - Cross-Platform Software-Defined Radio Application
 - [gqrx](https://github.com/csete/gqrx) - Software defined radio receiver powered by GNU Radio and Qt.
@@ -1307,7 +1308,7 @@
 - [torproxy](https://github.com/okkur/torproxy) - Caddy plugin to enable easy web to tor proxying
 - [traefik-forward-auth](https://github.com/thomseddon/traefik-forward-auth) - Minimal forward authentication service that provides Google/OpenID oauth based login and authentication for the traefik reverse proxy
 - [pewpew](https://github.com/bengadbois/pewpew) - Flexible HTTP command line stress tester for websites and web services
-- [teleport](https://github.com/gravitational/teleport) - Unified access for SSH servers, Kubernetes, web applications, and databases written in Go
+- [teleport](https://github.com/gravitational/teleport) - Certificate authority and Identity aware proxy for SSH, Kubernetes, web applications, and databases
 - [swirl](https://github.com/cuigh/swirl) - A web UI for Docker, focused on swarm cluster.
 - [godns](https://github.com/TimothyYe/godns) - A dynamic DNS client tool supports AliDNS, Cloudflare, Google Domains, DNSPod, HE.net & DuckDNS & DreamHost, etc, written in Go.
 - [secureoperator](https://github.com/fardog/secureoperator) - A DNS-protocol proxy for DNS-over-HTTPS providers, such as Google and Cloudflare
@@ -1622,7 +1623,7 @@
 - [sshcode](https://github.com/cdr/sshcode) - Run VS Code on any server over SSH.
 - [bonjour-reflector](https://github.com/Gandem/bonjour-reflector) - A reflector that forwards mdns packets between VLANs - like avahi-reflector but with fine-grained control !
 - [zeroconf](https://github.com/grandcat/zeroconf) - mDNS / DNS-SD Service Discovery in pure Go (also known as Bonjour)
-- [semaphore](https://github.com/ansible-semaphore/semaphore) - Open Source alternative to Ansible Tower
+- [semaphore](https://github.com/ansible-semaphore/semaphore) - Modern UI for Ansible
 - [ejson](https://github.com/Shopify/ejson) - EJSON is a small library to manage encrypted secrets using asymmetric encryption.
 - [onionscan](https://github.com/s-rah/onionscan) - OnionScan is a free and open source tool for investigating the Dark Web.
 - [sshportal](https://github.com/moul/sshportal) - :tophat: simple, fun and transparent SSH (and telnet) bastion server
@@ -1669,6 +1670,8 @@
 
 ## HTML 
 
+- [GDIndex](https://github.com/maple3142/GDIndex) - A Google Drive Index built with Vue Running on CloudFlare Workers
+- [anchorjs](https://github.com/bryanbraun/anchorjs) - Add deep anchor links to your docs.
 - [trust_stores_observatory](https://github.com/nabla-c0d3/trust_stores_observatory) - Continuously monitor and record the content of the major platforms' root certificate stores.
 - [blahdns](https://github.com/ookangzheng/blahdns) - A small hobby ads block dns project with doh, dot, dnscrypt support.
 - [youtube-scrape](https://github.com/HermanFassett/youtube-scrape) - Scrape YouTube searches (API)
@@ -1901,6 +1904,15 @@
 
 ## JavaScript 
 
+- [breakdance](https://github.com/breakdance/breakdance) - It's time for your markup to get down! HTML to markdown converter. Breakdance is a highly pluggable, flexible and easy to use.
+- [remark](https://github.com/remarkjs/remark) - Markdown processor powered by plugins part of the @unifiedjs collective
+- [add2calendar](https://github.com/jojoee/add2calendar) - :calendar: Allow you to add event to calendar easier
+- [showdown](https://github.com/showdownjs/showdown) - A bidirectional Markdown to HTML to Markdown converter written in Javascript
+- [marked](https://github.com/markedjs/marked) - A markdown parser and compiler. Built for speed.
+- [check-links](https://github.com/transitive-bullshit/check-links) - Robustly checks an array of URLs for liveness. Extremely fast ⚡
+- [broken-link-checker](https://github.com/stevenvachon/broken-link-checker) - Find broken links, missing images, etc within your HTML.
+- [linkifyjs](https://github.com/Soapbox/linkifyjs) - Linkify is a zero-dependency JavaScript plugin for finding links in plain-text and converting them to HTML &lt;a&gt; tags.
+- [linkify-urls](https://github.com/sindresorhus/linkify-urls) - Linkify URLs in a string
 - [github-traffic-viewer-website](https://github.com/Mokkapps/github-traffic-viewer-website) - A website which shows a list of traffic graphs of your own GitHub repositories
 - [trafficator](https://github.com/humanmade/trafficator) - Traffic generator for local analytics testing
 - [ytdl-webserver](https://github.com/Algram/ytdl-webserver) - 📻 Webserver for downloading youtube videos. Ready for docker.
@@ -2440,7 +2452,6 @@
 - [alfred-youtube-bookmarks](https://github.com/bikenik/alfred-youtube-bookmarks) - quick search youtube playlist, creating video-bookmarks with tags
 - [copy-url-for-alfred](https://github.com/fallroot/copy-url-for-alfred) - You can copy browser's URL and title with various formats like markdown, anchor tag and your own.
 - [now-deployment](https://github.com/amondnet/now-deployment) - This action make a deployment with github actions instead of ZEIT Now builder.
-- [cockpit](https://github.com/cockpit-project/cockpit) - There's code a goin' on
 - [TheHive](https://github.com/TheHive-Project/TheHive) - TheHive: a Scalable, Open Source and Free Security Incident Response Platform
 - [response](https://github.com/monzo/response) - Monzo's real-time incident response and reporting tool ⚡️
 - [Please-Contain-Yourself](https://github.com/dylanlrrb/Please-Contain-Yourself) - A Docker tutorial written for people who don't actually know Docker already.
@@ -2658,6 +2669,7 @@
 
 ## Jupyter Notebook 
 
+- [10k_Report_SEC](https://github.com/KuntalP/10k_Report_SEC) - To extract the text data from .txt SEC filings link.
 - [DFL-Colab](https://github.com/chervonij/DFL-Colab) - DeepFaceLab fork which provides IPython Notebook to use DFL with Google Colab
 - [TTS](https://github.com/mozilla/TTS) - :robot: :speech_balloon: Deep learning for Text to Speech  (Discussion forum: https://discourse.mozilla.org/c/tts)
 - [nn](https://github.com/lab-ml/nn) - 🧠 Implementations/tutorials of deep learning papers with side-by-side notes; including transformers (original, xl, switch, feedback), optimizers(adam, radam, adabelief), gans(dcgan, cyclegan), reinforcement learning (ppo, dqn), capsnet, sketch-rnn, etc.
@@ -2857,6 +2869,11 @@
 
 ## Others 
 
+- [awesome-remark](https://github.com/remarkjs/awesome-remark) - Curated list of awesome remark resources
+- [add-event-to-calendar-docs](https://github.com/InteractionDesignFoundation/add-event-to-calendar-docs) - 📅 Docs how to generate links to add events to online calendar services
+- [Awesome-CUDA](https://github.com/Erkaman/Awesome-CUDA) - This is a list of useful libraries and resources for CUDA development.
+- [promote-your-next-startup](https://github.com/trekhleb/promote-your-next-startup) - 🚀 Free resources you may use to promote your next startup
+- [awesome-lite-websites](https://github.com/mdibaiee/awesome-lite-websites) - A list of awesome lightweight websites without all the bloat
 - [arbal-starred](https://github.com/arbal/arbal-starred) - My [Arbal's] starred repositories on GitHub
 - [iterm2-snazzy](https://github.com/sindresorhus/iterm2-snazzy) - Elegant iTerm2 theme with bright colors
 - [Thor](https://github.com/AngelLM/Thor) - DIY 3D Printable Robotic Arm
@@ -2906,7 +2923,7 @@
 - [awesome-lxc-lxd](https://github.com/angristan/awesome-lxc-lxd) - A curated list of awesome LXC and LXD tools, libraries and related projects.
 - [decentralized-video-chat](https://github.com/ianramzy/decentralized-video-chat) - 🚀 Zipcall- Acquired @ 250k users 🚀 Peer to peer browser video calling platform with unmatched video quality and latency.
 - [GoldenRabbit-BTT](https://github.com/min-uuu/GoldenRabbit-BTT) - MacBook Pro touchbar custom. Perfectly Optimized BTT(Better Touch Tool) Preset.
-- [awesome-touchbar](https://github.com/zridouh-chwy/awesome-touchbar) - :point_right: :star2: delightful macOS resources for your touchbar
+- [awesome-touchbar](https://github.com/z11h/awesome-touchbar) - :point_right: :star2: delightful macOS resources for your touchbar
 - [awesome-distributed-transactions](https://github.com/rystsov/awesome-distributed-transactions) - Awesome list of distributed transactions
 - [data-science](https://github.com/ossu/data-science) - :bar_chart: Path to a free self-taught education in Data Science!
 - [awesome-code-review](https://github.com/joho/awesome-code-review) - An "Awesome" list of code review resources - articles, papers, tools, etc
@@ -3195,6 +3212,7 @@
 - [awesome-coral-edgetpu](https://github.com/liyoung1992/awesome-coral-edgetpu) - The products,docs,resources,software,tools,scripts,models,demos
 - [google-coral](https://github.com/f0cal/google-coral) - Community gathering point for Google Coral dev board and dongle knowledge.
 - [alfred-workflows](https://github.com/zenorocha/alfred-workflows) - :metal: A collection of Alfred 3 and 4 workflows that will rock your world
+- [openvslam](https://github.com/xdspacelab/openvslam) - OpenVSLAM: A Versatile Visual SLAM Framework
 - [keepaOpenAPI](https://github.com/dmuensterman/keepaOpenAPI) - An OpenAPI 3.0 specification for the Keepa API.
 - [awesome-voice-apps](https://github.com/jovotech/awesome-voice-apps) - 🕶 A curated list of awesome voice projects, tools, and resources for Amazon Alexa, Google Assistant, and more.
 - [AdGuardSDNSFilter](https://github.com/AdguardTeam/AdGuardSDNSFilter) - AdGuard Simplified Domain names filter
@@ -3327,6 +3345,9 @@
 
 ## PHP 
 
+- [event-manager](https://github.com/doctrine/event-manager) - The Doctrine Event Manager is a library that provides a simple event system.
+- [icalendar-generator](https://github.com/spatie/icalendar-generator) - Generate calendars in the iCalendar format
+- [calendar-links](https://github.com/spatie/calendar-links) - Generate add to calendar links for Google, iCal and other calendar systems
 - [Mikrotik-Logging](https://github.com/developerdevice/Mikrotik-Logging) - Mikrotik Log view in real time
 - [zonemanager](https://github.com/zonemanager/zonemanager) - Central DNS/DHCP database with replication to Amazon Route53, BIND, MikroTik routers and other services.
 - [plugin_mikrotik](https://github.com/Cacti/plugin_mikrotik) - Mikrotik Plugin for Cacti
@@ -3430,6 +3451,7 @@
 
 ## Perl 
 
+- [croncal](https://github.com/waldner/croncal) - Utility to convert a crontab file to a list of actual events within a date range.
 - [smokeping-OpenSSHMikrotikRouterOSPing](https://github.com/tonydm/smokeping-OpenSSHMikrotikRouterOSPing) - Smokeping SSH Probe for Mikrotik RouterOS
 - [useful-scripts](https://github.com/rackerlabs/useful-scripts) - A collections of useful Linux investigation tools
 - [nipe](https://github.com/htrgouvea/nipe) - An engine to make Tor network your default gateway
@@ -3491,6 +3513,9 @@
 
 ## Python 
 
+- [GAM](https://github.com/jay0lee/GAM) - command line management for Google Workspace
+- [linkedin-Scrapper](https://github.com/acetheultimate/linkedin-Scrapper) - To get the data out of linkedin contacts and save it in a more comfortable and offline way. (Excel or TXT)
+- [OctoPrint-FlashForge](https://github.com/Mrnt/OctoPrint-FlashForge) - OctoPrint plugin to support closed source printers from FlashForge, PowerSpec, Dremel
 - [repository-traffic-action](https://github.com/sangonzal/repository-traffic-action) - GitHub action to save insights past the default 2 week period
 - [github-traffic-stats](https://github.com/IBM-Cloud/github-traffic-stats) - Manage and automatically collect Github traffic statistics for repositories
 - [github-traffic-stats](https://github.com/nchah/github-traffic-stats) - Get statistics on web traffic to your GitHub repositories.
@@ -4926,7 +4951,6 @@
 - [asdf-ruby](https://github.com/asdf-vm/asdf-ruby) - Ruby plugin for asdf version manager
 - [useful-scripts](https://github.com/oldratlee/useful-scripts) - 🐌 useful scripts for making developer's everyday life easier and happier, involved java, shell etc.
 - [pure-bash-bible](https://github.com/dylanaraps/pure-bash-bible) - 📖 A collection of pure bash alternatives to external processes.
-- [serviceupdater](https://github.com/sgohl/serviceupdater) - Docker Swarm ServiceUpdater
 - [jsawk](https://github.com/micha/jsawk) - Like awk, but for JSON.
 - [oom_manager](https://github.com/Saruspete/oom_manager) - Script to configure and manage Linux Out-Of-Memory killer
 - [red](https://github.com/keshavbhatt/red) - Red - Privacy focused Youtube player and download manager for Linux
@@ -5623,6 +5647,7 @@
 
 ## TypeScript 
 
+- [datebook](https://github.com/jshor/datebook) - 📅 Generates URLs and downloadable ICS files for adding events to popular calendar apps.
 - [network-fingerprinter](https://github.com/AlexanderLevenskikh/network-fingerprinter) - Purely passive OS and application fingerprinting system
 - [perf-tools](https://github.com/artifact-project/perf-tools) - ⏱→ 🚀A set of tools for improving performance your application (balancer, performance, PerfKeeper, LazyPromise).
 - [http-timer](https://github.com/szmarczak/http-timer) - 🕐 Performance timings for HTTP requests
@@ -5682,7 +5707,6 @@
 - [unionfs](https://github.com/streamich/unionfs) - Use multiple fs modules at once
 - [G6](https://github.com/antvis/G6) - ♾ A Graph Visualization Framework in JavaScript
 - [sanity](https://github.com/sanity-io/sanity) - The Sanity Studio – Collaborate in real-time on structured content
-- [directus](https://github.com/directus/directus) - Open-Source Data Platform 🐰  — Directus wraps any SQL database with a real-time GraphQL+REST API and an intuitive app for non-technical users.
 - [chromeless](https://github.com/prisma-archive/chromeless) - 🖥  Chrome automation made simple. Runs locally or headless on AWS Lambda.
 - [sprite](https://github.com/TimoSta/sprite) - 🖌 Draw charts in code. Render in real-time. Embed anywhere as .png.
 - [grafana-dashboards](https://github.com/percona/grafana-dashboards) - PMM dashboards for database monitoring
@@ -5836,6 +5860,7 @@
 - [best-resume-ever](https://github.com/salomonelli/best-resume-ever) - :necktie: :briefcase: Build fast :rocket: and easy multiple beautiful resumes and create your best CV ever! Made with Vue and LESS.
 - [Yacht](https://github.com/SelfhostedPro/Yacht) - A web interface for managing docker containers with an emphasis on templating to provide 1 click deployments. Think of it like a decentralized app store for servers that anyone can make packages for.
 - [awesome-github-profile-readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme) - 😎 A curated list of awesome Github Profile READMEs 📝
+- [directus](https://github.com/directus/directus) - Open-Source Data Platform 🐰  — Directus wraps any SQL database with a real-time GraphQL+REST API and an intuitive app for non-technical users.
 - [plantuml-editor](https://github.com/kkeisuke/plantuml-editor) - PlantUML online demo client
 - [shortkeys](https://github.com/mikecrittenden/shortkeys) - A browser extension for custom keyboard shortcuts
 - [homer](https://github.com/bastienwirtz/homer) - A very simple static homepage for your server.
