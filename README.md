@@ -125,6 +125,10 @@
 
 ## C 
 
+- [progress](https://github.com/Xfennec/progress) - Linux tool to show progress for cp, mv, dd, ... (formerly known as cv)
+- [stderred](https://github.com/sickill/stderred) - stderr in red
+- [hilite](https://github.com/nfultz/hilite) - mirror from sourceforge
+- [task-spooler](https://github.com/justanhduc/task-spooler) - A SLURM alternative/job scheduler for a single simulation machine
 - [Remotery](https://github.com/Celtoys/Remotery) - Single C file, Realtime CPU/GPU Profiler with Remote Web Viewer
 - [getdns](https://github.com/getdnsapi/getdns) - A modern asynchronous DNS API  https://getdnsapi.net/
 - [vnstat](https://github.com/vergoh/vnstat) - vnStat - a network traffic monitor for Linux and BSD
@@ -820,6 +824,10 @@
 
 ## Go 
 
+- [go-shodan](https://github.com/ns3777k/go-shodan) - Shodan API client
+- [shodan](https://github.com/shadowscatcher/shodan) - yet another Shodan.io client
+- [arpfox](https://github.com/malfunkt/arpfox) - An arpspoof alternative (written in Go) that injects spoofed ARP packets into a LAN.
+- [hyperfox](https://github.com/malfunkt/hyperfox) - HTTP/HTTPS MITM proxy and recorder.
 - [clair](https://github.com/quay/clair) - Vulnerability Static Analysis for Containers
 - [runc](https://github.com/opencontainers/runc) - CLI tool for spawning and running containers according to the OCI specification
 - [gvisor](https://github.com/google/gvisor) - Application Kernel for Containers
@@ -1689,6 +1697,7 @@
 
 ## Groovy 
 
+- [nextflow](https://github.com/nextflow-io/nextflow) - A DSL for data-driven computational pipelines
 - [wemocontrol](https://github.com/brendonanderson/wemocontrol) - Discover, find the status of, and control your WeMo outlet device.
 - [rundeck](https://github.com/rundeck/rundeck) - Enable Self-Service Operations: Give specific users access to your existing tools, services, and scripts
 - [swagger2raml](https://github.com/8x8Cloud/swagger2raml) - A utility to generate RAML documentation from Swagger JSON
@@ -1947,6 +1956,13 @@
 
 ## JavaScript 
 
+- [pown](https://github.com/pownjs/pown) - Pown.js is a security testing an exploitation toolkit built on top of Node.js and NPM.
+- [recon](https://github.com/pownjs/recon) - A powerful target reconnaissance framework powered by graph theory.
+- [homebridge-roomba2](https://github.com/homebridge-plugins/homebridge-roomba2) - Homebridge plugin to connect iRobot Roomba devices with Homebridge/HomeKit.
+- [slurm-web](https://github.com/edf-hpc/slurm-web) - Slurm HPC workload manager web JS dashboard and JSON REST API
+- [decentraleyes](https://github.com/Synzvato/decentraleyes) - This repository has a new home: https://git.synz.io/Synzvato/decentraleyes
+- [AdNauseam](https://github.com/dhowe/AdNauseam) - AdNauseam: Fight back against advertising surveillance
+- [FreeTube](https://github.com/FreeTubeApp/FreeTube) - An Open Source YouTube app for privacy
 - [SingleFileZ](https://github.com/gildas-lormeau/SingleFileZ) - Web Extension for Firefox/Chrome/MS Edge and CLI tool to save a faithful copy of an entire web page in a self-extracting HTML/ZIP polyglot file
 - [selenium-ide](https://github.com/SeleniumHQ/selenium-ide) - Open Source record and playback test automation for the web.
 - [uirecorder](https://github.com/alibaba/uirecorder) - UI Recorder is a  multi-platform UI test recorder.
@@ -1963,7 +1979,7 @@
 - [marked](https://github.com/markedjs/marked) - A markdown parser and compiler. Built for speed.
 - [check-links](https://github.com/transitive-bullshit/check-links) - Robustly checks an array of URLs for liveness. Extremely fast ⚡
 - [broken-link-checker](https://github.com/stevenvachon/broken-link-checker) - Find broken links, missing images, etc within your HTML.
-- [linkifyjs](https://github.com/Soapbox/linkifyjs) - Linkify is a zero-dependency JavaScript plugin for finding links in plain-text and converting them to HTML &lt;a&gt; tags.
+- [linkifyjs](https://github.com/Soapbox/linkifyjs) - Linkify is a JavaScript plugin for finding links in plain-text and converting them to HTML &lt;a&gt; tags.
 - [linkify-urls](https://github.com/sindresorhus/linkify-urls) - Linkify URLs in a string
 - [github-traffic-viewer-website](https://github.com/Mokkapps/github-traffic-viewer-website) - A website which shows a list of traffic graphs of your own GitHub repositories
 - [trafficator](https://github.com/humanmade/trafficator) - Traffic generator for local analytics testing
@@ -2869,6 +2885,7 @@
 
 ## OCaml 
 
+- [Batsh](https://github.com/batsh-dev-team/Batsh) - A language that compiles to Bash and Windows Batch
 - [comby](https://github.com/comby-tools/comby) - A tool for structural code search and replace that supports ~every language.
 - [sure-deploy](https://github.com/issuu/sure-deploy) - What `docker stack deploy` should actually have been
 - [pfff](https://github.com/facebookarchive/pfff) - Tools for code analysis, visualizations, or style-preserving source transformation.
@@ -2926,6 +2943,8 @@
 
 ## Others 
 
+- [personal-security-checklist](https://github.com/Lissy93/personal-security-checklist) - 🔒 A curated checklist of 300+ tips for protecting digital security and privacy in 2021
+- [awesome-i2p](https://github.com/mikalv/awesome-i2p) - A curated list of awesome I2P implementations, libraries, resources, projects, and shiny things. I2P is an anonymous overlay network - a network within a network. It is intended to protect communication from dragnet surveillance and monitoring by third parties such as ISPs.
 - [awesome-regression-testing](https://github.com/mojoaxel/awesome-regression-testing) - 🕶️ A curated list of resources around the topic: visual regression testing
 - [awesome-ciandcd](https://github.com/cicdops/awesome-ciandcd) - continuous integration and continuous delivery
 - [alfred-gallery](https://github.com/BlackwinMin/alfred-gallery) - Original macOS Alfred actions by Minja.
@@ -3444,7 +3463,7 @@
 - [html-to-markdown](https://github.com/thephpleague/html-to-markdown) - Convert HTML to Markdown with PHP
 - [librenms-agent](https://github.com/librenms/librenms-agent) - LibreNMS Agent & Scripts
 - [github_mirror_gitea](https://github.com/mpdroog/github_mirror_gitea) - Sync GitHub to Gitea
-- [looking-glass](https://github.com/respawner/looking-glass) - Easy to deploy Looking Glass
+- [looking-glass](https://github.com/gmazoyer/looking-glass) - Easy to deploy Looking Glass
 - [astral](https://github.com/astralapp/astral) - Organize Your GitHub Stars With Ease
 - [swagger2slate](https://github.com/E96/swagger2slate) - Convert swagger api documentation (http://swagger.io) to slate static html page (https://github.com/tripit/slate)
 - [LinkAce](https://github.com/Kovah/LinkAce) - Your self-hosted bookmark archive. Free and open source.
@@ -3519,6 +3538,7 @@
 
 ## Perl 
 
+- [FFCP-GCodeSnippets](https://github.com/DrLex0/FFCP-GCodeSnippets) - G-Code and scripts for using the FlashForge Creator Pro with PrusaSlicer (Slic3r)
 - [wack](https://github.com/leto/wack) - ack for wallet.dat's
 - [croncal](https://github.com/waldner/croncal) - Utility to convert a crontab file to a list of actual events within a date range.
 - [smokeping-OpenSSHMikrotikRouterOSPing](https://github.com/tonydm/smokeping-OpenSSHMikrotikRouterOSPing) - Smokeping SSH Probe for Mikrotik RouterOS
@@ -3582,6 +3602,19 @@
 
 ## Python 
 
+- [ElectricEye](https://github.com/jonrau1/ElectricEye) - Continuously monitor your AWS services for configurations that can lead to degradation of confidentiality, integrity or availability. All results will be sent to Security Hub for further aggregation and analysis.
+- [shodan-python](https://github.com/achillean/shodan-python) - The official Python library for Shodan
+- [TinyBridge](https://github.com/PyDann/TinyBridge) - Homebridge CLI Manager
+- [Deep-Inside](https://github.com/intrackeable/Deep-Inside) - Command line tool that allows you to explore IoT devices by using Shodan search engine.
+- [elasticluster](https://github.com/elasticluster/elasticluster) - Create clusters of VMs on the cloud and configure them with Ansible.
+- [submitit](https://github.com/facebookincubator/submitit) - Python 3.6+ toolbox for submitting jobs to Slurm
+- [toil](https://github.com/DataBiosphere/toil) - A scalable, efficient, cross-platform (Linux/macOS) and easy-to-use workflow engine in pure Python.
+- [kickthemout](https://github.com/k4m4/kickthemout) - 💤 Kick devices off your network by performing an ARP Spoof attack.
+- [arpy](https://github.com/ivanvza/arpy) - Mac OSX ARP spoof (MiTM) tool that can also plug into Gource
+- [noisy](https://github.com/madereddy/noisy) - Simple random DNS, HTTP/S internet traffic noise generator in a Docker container
+- [PySyft](https://github.com/OpenMined/PySyft) - A library for answering questions using data you cannot see
+- [Darksearch](https://github.com/vlall/Darksearch) - :mag::shipit: Search engine for hidden material. Scraping dark web onions, irc logs, deep web etc...
+- [TorBot](https://github.com/DedSecInside/TorBot) - Dark Web OSINT Tool
 - [TorCrawl.py](https://github.com/MikeMeliz/TorCrawl.py) - Crawl and extract (regular or onion) webpages through TOR network
 - [freshonions-torscraper](https://github.com/dirtyfilthy/freshonions-torscraper) - Fresh Onions is an open source TOR spider / hidden service onion crawler hosted at zlal32teyptf4tvi.onion
 - [OnionIngestor](https://github.com/danieleperera/OnionIngestor) - An extendable tool to Collect, Crawl and Monitor onion sites on tor network and index collected information on Elasticsearch
@@ -4884,6 +4917,7 @@
 
 ## Rust 
 
+- [shodan-rust](https://github.com/femiagbabiaka/shodan-rust) - rusty shodan
 - [adblock-rust](https://github.com/brave/adblock-rust) - Brave's Rust-based adblock engine
 - [tree_magic](https://github.com/aahancoc/tree_magic) - Determines the MIME type of a file by traversing a filetype tree.
 - [materialize](https://github.com/MaterializeInc/materialize) - Materialize simplifies application development with streaming data. Incrementally-updated materialized views - in PostgreSQL and in real time. Materialize is powered by Timely Dataflow.
@@ -5032,6 +5066,8 @@
 
 ## Shell 
 
+- [shARP](https://github.com/europa502/shARP) - An anti-ARP-spoofing application software that use active and passive scanning methods to detect and remove any ARP-spoofer from the network.
+- [paperwork](https://github.com/paperwork/paperwork) - Paperwork - OpenSource note-taking & archiving alternative to Evernote, Microsoft OneNote & Google Keep
 - [uti](https://github.com/NSHipster/uti) - A command-line utility that prints the Uniform Type Identifier for files.
 - [docker-requestbin](https://github.com/crccheck/docker-requestbin) - Requestbin
 - [cs-suite](https://github.com/SecurityFTW/cs-suite) - Cloud Security Suite - One stop tool for auditing the security posture of AWS/GCP/Azure infrastructure.
@@ -5746,6 +5782,9 @@
 
 ## TypeScript 
 
+- [homebridge-z2m](https://github.com/itavero/homebridge-z2m) - Expose your Zigbee devices to HomeKit with ease, by integrating 🐝 Zigbee2MQTT with 🏠 Homebridge.
+- [homebridge-nest-cam](https://github.com/Brandawg93/homebridge-nest-cam) - View your Nest cams in HomeKit using Homebridge.
+- [verified](https://github.com/homebridge/verified) - Plugins Verified by Homebridge
 - [serenity-js](https://github.com/serenity-js/serenity-js) - A next generation, full-stack acceptance testing framework optimised for collaboration, speed and scale!
 - [github-pages-deploy-action](https://github.com/JamesIves/github-pages-deploy-action) - :rocket: GitHub action for deploying a project to GitHub pages.
 - [bit](https://github.com/teambit/bit) - Build, distribute, and collaborate on components.
