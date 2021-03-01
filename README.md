@@ -1956,6 +1956,8 @@
 
 ## JavaScript 
 
+- [playwright-cli](https://github.com/microsoft/playwright-cli) - CLI for common Playwright actions. Record and generate Playwright code, inspect selectors and take screenshots.
+- [playwright-es-modules-babel-jest-expect](https://github.com/e2e-boilerplate/playwright-es-modules-babel-jest-expect) - Playwright end-to-end test automation boilerplate project. Using ES6 modules, BabelJS, Jest and Expect.
 - [pown](https://github.com/pownjs/pown) - Pown.js is a security testing an exploitation toolkit built on top of Node.js and NPM.
 - [recon](https://github.com/pownjs/recon) - A powerful target reconnaissance framework powered by graph theory.
 - [homebridge-roomba2](https://github.com/homebridge-plugins/homebridge-roomba2) - Homebridge plugin to connect iRobot Roomba devices with Homebridge/HomeKit.
@@ -2943,6 +2945,7 @@
 
 ## Others 
 
+- [awesome-playwright](https://github.com/mxschmitt/awesome-playwright) - A curated list of awesome tools, utils and projects using Playwright
 - [personal-security-checklist](https://github.com/Lissy93/personal-security-checklist) - 🔒 A curated checklist of 300+ tips for protecting digital security and privacy in 2021
 - [awesome-i2p](https://github.com/mikalv/awesome-i2p) - A curated list of awesome I2P implementations, libraries, resources, projects, and shiny things. I2P is an anonymous overlay network - a network within a network. It is intended to protect communication from dragnet surveillance and monitoring by third parties such as ISPs.
 - [awesome-regression-testing](https://github.com/mojoaxel/awesome-regression-testing) - 🕶️ A curated list of resources around the topic: visual regression testing
@@ -3584,7 +3587,7 @@
 - [virtual-environments](https://github.com/actions/virtual-environments) - GitHub Actions virtual environments
 - [saverr](https://github.com/ninthwalker/saverr) - Download and save media from Plex Servers
 - [Javinizer](https://github.com/jvlflame/Javinizer) - (NSFW) Organize your local Japanese Adult Video (JAV) library
-- [lisa](https://github.com/microsoft/lisa) - Microsoft Linux Test Automation Framework on multi-platforms. LISAv2 is under maintenance mode, and LISAv3 is under development for more platform supports and features.
+- [lisa](https://github.com/microsoft/lisa) - LISA is developed and maintained by Microsoft, to empower Linux validation.
 - [Debloat-Windows-10](https://github.com/W4RH4WK/Debloat-Windows-10) - A Collection of Scripts Which Disable / Remove Windows 10 Features and Apps
 - [Windows10Debloater](https://github.com/Sycnex/Windows10Debloater) - Script to remove Windows 10 bloatware.
 - [CloudflareDDNS](https://github.com/rxbn/CloudflareDDNS) - Manage Cloudflare DNS records dynamically
@@ -4520,7 +4523,7 @@
 - [trip-planner](https://github.com/adl1995/trip-planner) - A CLI tool for planning trip itinerary.
 - [gmaps_popular_times_scraper](https://github.com/philshem/gmaps_popular_times_scraper) - Scraper for Google Maps "Popular Times" for place entries
 - [AutoRclone](https://github.com/xyou365/AutoRclone) - AutoRclone: rclone copy/move/sync (automatically) with thousands of service accounts
-- [ArchiveBox](https://github.com/ArchiveBox/ArchiveBox) - 🗃 Open source self-hosted web archiving. Takes browser history/bookmarks/Pocket/Pinboard/etc., saves HTML, JS, PDFs, media, and more...
+- [ArchiveBox](https://github.com/ArchiveBox/ArchiveBox) - 🗃 Open source self-hosted web archiving. Takes URLs/browser history/bookmarks/Pocket/Pinboard/etc., saves HTML, JS, PDFs, media, and more...
 - [hass-sensorpush](https://github.com/rsnodgrass/hass-sensorpush) - SensorPush integration for Home Assistant
 - [plot_joblog](https://github.com/ziotom78/plot_joblog) - Command-line utility to display the execution time of jobs run by GNU parallel
 - [octodns](https://github.com/octodns/octodns) - Tools for managing DNS across multiple providers
@@ -5782,12 +5785,13 @@
 
 ## TypeScript 
 
+- [root-cause](https://github.com/testimio/root-cause) - 🔍 Root Cause is a tool for troubleshooting Puppeteer and Playwright tests. 🔎
 - [homebridge-z2m](https://github.com/itavero/homebridge-z2m) - Expose your Zigbee devices to HomeKit with ease, by integrating 🐝 Zigbee2MQTT with 🏠 Homebridge.
 - [homebridge-nest-cam](https://github.com/Brandawg93/homebridge-nest-cam) - View your Nest cams in HomeKit using Homebridge.
 - [verified](https://github.com/homebridge/verified) - Plugins Verified by Homebridge
 - [serenity-js](https://github.com/serenity-js/serenity-js) - A next generation, full-stack acceptance testing framework optimised for collaboration, speed and scale!
 - [github-pages-deploy-action](https://github.com/JamesIves/github-pages-deploy-action) - :rocket: GitHub action for deploying a project to GitHub pages.
-- [bit](https://github.com/teambit/bit) - Build, distribute, and collaborate on components.
+- [bit](https://github.com/teambit/bit) - Develop modular web applications with components - fast, together, and at scale.
 - [examples](https://github.com/pulumi/examples) - Infrastructure, containers, and serverless apps to AWS, Azure, GCP, and Kubernetes... all deployed with Pulumi
 - [firetable](https://github.com/AntlerVC/firetable) - Excel/Google Sheets like UI for Firebase/Firestore. No more admin portals!
 - [datebook](https://github.com/jshor/datebook) - 📅 Generates URLs and downloadable ICS files for adding events to popular calendar apps.
