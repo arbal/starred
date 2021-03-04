@@ -629,6 +629,7 @@
 
 ## CSS 
 
+- [LinkFree](https://github.com/MichaelBarney/LinkFree) - A free and open source alternative to LinkTree
 - [traceroute_history](https://github.com/deajan/traceroute_history) - Keep traceroute histroy, make diffs. Use as standalone / smokeping companion
 - [AWSConsoleRecorder](https://github.com/iann0036/AWSConsoleRecorder) - Records actions made in the AWS Management Console and outputs the equivalent CLI/SDK commands and CloudFormation/Terraform templates.
 - [presentations](https://github.com/sudo-bmitch/presentations) - Presentations from Brandon Mitchell
@@ -825,6 +826,8 @@
 
 ## Go 
 
+- [macro-ctl](https://github.com/adityaxdiwakar/macro-ctl) - macro-ctl is a control center system to allow for interaction between a client computer and a Google Home
+- [speedtest-cli](https://github.com/librespeed/speedtest-cli) - Command line client for LibreSpeed
 - [glauth](https://github.com/glauth/glauth) - A lightweight LDAP server for development, home use, or CI
 - [bit](https://github.com/chriswalz/bit) - Bit is a modern Git CLI
 - [differential-privacy](https://github.com/google/differential-privacy) - Google's differential privacy library.
@@ -997,7 +1000,7 @@
 - [tss](https://github.com/kevinburke/tss) - Go port of moreutils/ts
 - [tcpprobe](https://github.com/mehrdadrad/tcpprobe) - Modern TCP tool and service for network performance observability.
 - [dnsprobe](https://github.com/projectdiscovery/dnsprobe) - DNSProb is a tool built on top of retryabledns that allows you to perform multiple dns queries of your choice with a list of user supplied resolvers.
-- [linx-server](https://github.com/andreimarcu/linx-server) - Self-hosted file/code/media sharing website. ~~~~~~~~~~~~~~~~~~~ Demo: https://demo.linx-server.net/
+- [linx-server](https://github.com/linx-server/linx-server) - Self-hosted file/code/media sharing website. ~~~~~~~~~~~~~~~~~~~ Demo: https://demo.linx-server.net/
 - [snapdrop-desktop](https://github.com/alextwothousand/snapdrop-desktop) - A Snapdrop Desktop app written using Electron.
 - [rat](https://github.com/ericfreese/rat) - Compose shell commands to build interactive terminal applications
 - [jp](https://github.com/sgreben/jp) - dead simple terminal plots from JSON data. single binary, no dependencies. linux, osx, windows.
@@ -1099,7 +1102,7 @@
 - [hera](https://github.com/aschzero/hera) - Automated secure tunnels for containers using Cloudflare Argo
 - [cloudflared](https://github.com/cloudflare/cloudflared) - Argo Tunnel client
 - [realize](https://github.com/oxequa/realize) - Realize is the #1 Golang Task Runner which enhance your workflow by automating the most common tasks and using the best performing Golang live reloading.
-- [benthos](https://github.com/Jeffail/benthos) - Declarative streaming ETL for mundane tasks, written in Go
+- [benthos](https://github.com/Jeffail/benthos) - Declarative stream processing for mundane tasks and ETL, written in Go
 - [dockerfile-generator](https://github.com/ozankasikci/dockerfile-generator) - dfg - Generates dockerfiles based on various input channels.
 - [pydockenv](https://github.com/se7entyse7en/pydockenv) - Python virtual environment, but backed by Docker!
 - [irtt](https://github.com/heistp/irtt) - Isochronous Round-Trip Tester
@@ -1722,6 +1725,8 @@
 
 ## HTML 
 
+- [PeerFast](https://github.com/DiegoRBaquero/PeerFast) - ⚡️ P2P Fast.com Clone
+- [speedtest-go](https://github.com/librespeed/speedtest-go) - Go backend for LibreSpeed
 - [speedtest](https://github.com/librespeed/speedtest) - Self-hosted Speedtest for HTML5 and more. Easy setup, examples, configurable, mobile friendly. Supports PHP, Node, Multiple servers, and more
 - [thgtoa](https://github.com/AnonymousPlanet/thgtoa) - The Hitchhiker’s Guide to Online Anonymity
 - [magic-modules](https://github.com/GoogleCloudPlatform/magic-modules) - Automatically generate Google Cloud Platform support for OSS IaaC Projects
@@ -1806,6 +1811,7 @@
 - [home-automation-docker](https://github.com/blaineventurine/home-automation-docker) - Assorted Docker containers, using Traefik as a reverse proxy, and HomeAssistant to automate my house
 - [traefik-docker-ansible](https://github.com/guillaumebriday/traefik-docker-ansible) - 🐳 🐹  This is an Ansible playbook to install multiple Web applications on a single Ubuntu server with Docker and Traefik.
 - [docker.github.io](https://github.com/docker/docker.github.io) - Source repo for Docker's Documentation
+- [docker-ubuntu-vnc-desktop](https://github.com/fcwu/docker-ubuntu-vnc-desktop) - A Docker image to provide web VNC interface to access Ubuntu LXDE/LxQT desktop environment.
 - [ansible-role-zsh](https://github.com/viasite-ansible/ansible-role-zsh) - Setup antigen with oh-my-zsh, powerlevel10k theme, fzf, autosuggestions, syntax-highlighting
 - [ansible-netdata](https://github.com/mrlesmithjr/ansible-netdata) - An Ansible role to install/configure Netdata
 - [netboot.xyz](https://github.com/netbootxyz/netboot.xyz) - Network bootable operating system installer based on iPXE
@@ -1963,6 +1969,11 @@
 
 ## JavaScript 
 
+- [google-home-notifier](https://github.com/noelportugal/google-home-notifier) - Send notifications to Google Home
+- [speedo-cli](https://github.com/xxczaki/speedo-cli) - ⌚️ Internet speed report in your terminal!
+- [fast-speedtest-api](https://github.com/branchard/fast-speedtest-api) - fast.com API / CLI tool
+- [docker-speedtest-analyser](https://github.com/roest01/docker-speedtest-analyser) - Automated docker speedtest analyser tool with included web interface to monitor your internet speed connection over time. Setup at home on your NAS (Synology, QNAP tested) and the container runs hourly speedtests. The speedtest results are displayed in an webinterface as line graph(s) over the day.
+- [speed-test](https://github.com/sindresorhus/speed-test) - Test your internet connection speed and ping using speedtest.net from the CLI
 - [gaps](https://github.com/JasonHHouse/gaps) - Find the missing movies in your Plex Server
 - [chromium-web-store](https://github.com/NeverDecaf/chromium-web-store) - Allows adding extensions from chrome web store on ungoogled-chromium. Also adds semi-automatic extension updating.
 - [playwright-cli](https://github.com/microsoft/playwright-cli) - CLI for common Playwright actions. Record and generate Playwright code, inspect selectors and take screenshots.
@@ -2162,7 +2173,7 @@
 - [lighthouse](https://github.com/GoogleChrome/lighthouse) - Automated auditing, performance metrics, and best practices for the web.
 - [agendash](https://github.com/agenda/agendash) - Agenda Dashboard
 - [node-celery](https://github.com/mher/node-celery) - Celery client for Node.js
-- [social-analyzer](https://github.com/qeeqbox/social-analyzer) - API, CLI & Web App for analyzing & finding a person's profile across 350+ social media websites (Detections are updated regularly)
+- [social-analyzer](https://github.com/qeeqbox/social-analyzer) - API, CLI & Web App for analyzing & finding a person's profile across 350+ social media \ websites (Detections are updated regularly)
 - [chrome-extensions-samples](https://github.com/GoogleChrome/chrome-extensions-samples) - Chrome Extensions Samples
 - [realworld](https://github.com/gothinkster/realworld) - "The mother of all demo apps" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more 🏅
 - [libsignal-protocol-javascript](https://github.com/signalapp/libsignal-protocol-javascript) - Signal Protocol library for JavaScript
@@ -2517,7 +2528,6 @@
 - [party-pi](https://github.com/justinshenk/party-pi) - Computer vision emotion :stuck_out_tongue_winking_eye: detection game in Flask with TensorFlow backend.
 - [Kap](https://github.com/wulkano/Kap) - An open-source screen recorder built with web technology
 - [ha-dockermon](https://github.com/philhawthorne/ha-dockermon) - A NodeJS RESTful API which can be used with Home Assistant to report the state of Docker Containers
-- [docker-ubuntu-vnc-desktop](https://github.com/fcwu/docker-ubuntu-vnc-desktop) - A Docker image to provide web VNC interface to access Ubuntu LXDE/LxQT desktop environment.
 - [browsh](https://github.com/browsh-org/browsh) - A fully-modern text-based browser, rendering to TTY and browsers
 - [sift-cli](https://github.com/teamdfir/sift-cli) - CLI tool to manage a SIFT Install
 - [homebridge-awair](https://github.com/deanlyoung/homebridge-awair) - Homebridge plugin for Awair
@@ -2572,7 +2582,7 @@
 - [covid19](https://github.com/pomber/covid19) - JSON time-series of coronavirus cases (confirmed, deaths and recovered) per country - updated daily
 - [grapesjs](https://github.com/artf/grapesjs) - Free and Open source Web Builder Framework. Next generation tool for building templates without coding
 - [dockly](https://github.com/lirantal/dockly) - Immersive terminal interface for managing docker containers and services
-- [nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark:  The Node.js best practices list (February 2021)
+- [nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark:  The Node.js best practices list (March 2021)
 - [webhook.site](https://github.com/fredsted/webhook.site) - ⚓️ Easily test HTTP webhooks with this handy tool that displays requests instantly.
 - [is-online-cli](https://github.com/sindresorhus/is-online-cli) - Check if the internet connection is up
 - [RSSHub](https://github.com/DIYgod/RSSHub) - 🍰 Everything is RSSible
@@ -2905,6 +2915,7 @@
 
 ## Objective-C 
 
+- [tcping](https://github.com/paradiseduo/tcping) - tcping command, written with Objective-C, on macOS,tcping for mac,ping over a tcp connection
 - [QLColorCode](https://github.com/anthonygelibert/QLColorCode) - QuickLook plugin for source code with syntax highlighting.
 - [csshx](https://github.com/brockgr/csshx) - Automatically exported from code.google.com/p/csshx
 - [MASShortcut](https://github.com/shpakovski/MASShortcut) - Modern framework for managing global keyboard shortcuts compatible with Mac App Store. More details:
@@ -2957,6 +2968,7 @@
 
 ## Others 
 
+- [awesome-interview-questions](https://github.com/DopplerHQ/awesome-interview-questions) - :octocat: A curated awesome list of lists of interview questions. Feel free to contribute! :mortar_board:
 - [awesome-cto](https://github.com/kuchin/awesome-cto) - A curated and opinionated list of resources for Chief Technology Officers, with the emphasis on startups
 - [browser](https://github.com/dothq/browser) - 🌍 Take back your privacy with Dot Browser, the privacy-conscious web browser that protects you from being tracked and monitored online.
 - [awesome-privacy-on-blockchains](https://github.com/Mikerah/awesome-privacy-on-blockchains) - A curated list of privacy on blockchains resources
@@ -3622,6 +3634,11 @@
 
 ## Python 
 
+- [google-home-notifier-python](https://github.com/harperreed/google-home-notifier-python) - A google home notification webservice
+- [gmvault](https://github.com/gaubert/gmvault) - gmail backup software
+- [Paddle](https://github.com/PaddlePaddle/Paddle) - PArallel Distributed Deep LEarning: Machine Learning Framework from Industrial Practice （『飞桨』核心框架，深度学习&机器学习高性能单机、分布式训练和跨平台部署）
+- [PyTorch-StudioGAN](https://github.com/POSTECH-CVLab/PyTorch-StudioGAN) - StudioGAN is a Pytorch library providing implementations of representative Generative Adversarial Networks (GANs) for conditional/unconditional image generation.
+- [PaddleGAN](https://github.com/PaddlePaddle/PaddleGAN) - PaddlePaddle GAN library, including lots of interesting applications like DeepFake First-Order motion transfer, Mai-ha-hi（蚂蚁呀嘿), faceswap wav2lip, picture repair, image editing, photo2cartoon, image style transfer, and so on.
 - [tccutil](https://github.com/DocSystem/tccutil) - A macOS Permissions manager
 - [khan-dl](https://github.com/rand-net/khan-dl) - Download courses from  khanacademy.org
 - [PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings) - A list of useful payloads and bypass for Web Application Security and Pentest/CTF
@@ -4362,7 +4379,7 @@
 - [SecuriSys](https://github.com/lonewolfyuri/SecuriSys) - This is the Home Security System, built on Edge Computing, that features a fleet of raspberry pis, complete with touchscreen and gui, that runs Image Recognition Inference while providing robust and reliable home security and alerting the authorities upon emergency situations.
 - [detection-server](https://github.com/goruck/detection-server) - Object detection served over grpc using Google Edge TPU.
 - [Object_Detection_Tracking](https://github.com/JunweiLiang/Object_Detection_Tracking) - Out-of-the-box code and models for CMU's object detection and tracking system for surveillance videos. Speed optimized Faster-RCNN model. Tensorflow based. Also supports EfficientDet. WACVW'20
-- [object_detection_tflite](https://github.com/tetutaro/object_detection_tflite) - Object Detection for Video using TensorFlow Lite
+- [object_detection_tflite](https://github.com/tetutaro/object_detection_tflite) - Object Detection using TensorFlow Lite
 - [RPi-Stream](https://github.com/redlogo/RPi-Stream) - High FPS live stream Raspberry Pi cam with object detection by Google Coral EdgeTPU
 - [ISearch](https://github.com/etemesi-ke/ISearch) - Bring the power of Search Engines into the command line. Search using Google, Bing and DuckDuckGo straight from the command line
 - [neuralet](https://github.com/neuralet/neuralet) - Neuralet is an open-source platform for edge deep learning models on edge TPU, Jetson Nano, and more.
@@ -4827,6 +4844,7 @@
 
 ## Ruby 
 
+- [homebrew-tap](https://github.com/librespeed/homebrew-tap) - Homebrew Tap for LibreSpeed
 - [freshcerts](https://github.com/unrelentingtech/freshcerts) - ACME certificate protocol (Let's Encrypt) proxy client with a dashboard and monitoring
 - [webdrivers](https://github.com/titusfortner/webdrivers) - Keep your Selenium WebDrivers updated automatically
 - [gush](https://github.com/chaps-io/gush) - Fast and distributed workflow runner using ActiveJob and Redis
@@ -5092,6 +5110,10 @@
 
 ## Shell 
 
+- [spdtest.sh](https://github.com/aristocratos/spdtest.sh) - Internet speed reability tester
+- [speedtest-linux](https://github.com/rsvp/speedtest-linux) - Get download/upload speeds via speedtest.net or fast.com from command line using Bash script -- suitable for logs. POSIX OSX Linux
+- [nench](https://github.com/n-st/nench) - VPS benchmark script — based on the popular bench.sh, plus CPU and ioping tests, and dual-stack IPv4 and v6 speedtests by default
+- [macOS-Simple-KVM](https://github.com/foxlet/macOS-Simple-KVM) - Tools to set up a quick macOS VM in QEMU, accelerated by KVM.
 - [prowler](https://github.com/toniblyx/prowler) - Prowler is a security tool to perform AWS security best practices assessments, audits, incident response, continuous monitoring, hardening and forensics readiness. It contains all CIS controls listed here https://d0.awsstatic.com/whitepapers/compliance/AWS_CIS_Foundations_Benchmark.pdf and more than 100 additional checks that help on GDPR, HIPAA and other security requirements.
 - [Whonix](https://github.com/Whonix/Whonix) - Whonix is an operating system focused on anonymity, privacy and security. It's based on the Tor anonymity network, Debian GNU/Linux and security by isolation. DNS leaks are impossible, and not even malware with root privileges can find out the user's real IP. https://www.whonix.org
 - [bash-it](https://github.com/Bash-it/bash-it) - A community Bash framework.
@@ -5425,7 +5447,7 @@
 - [docker-airflow](https://github.com/puckel/docker-airflow) - Docker Apache Airflow
 - [owasp-mstg](https://github.com/OWASP/owasp-mstg) - The Mobile Security Testing Guide (MSTG) is a comprehensive manual for mobile app security development, testing and reverse engineering.
 - [onpremise](https://github.com/getsentry/onpremise) - Sentry On-Premise setup
-- [kafka-stack-docker-compose](https://github.com/simplesteph/kafka-stack-docker-compose) - docker compose files to create a fully working kafka stack
+- [kafka-stack-docker-compose](https://github.com/conduktor/kafka-stack-docker-compose) - docker compose files to create a fully working kafka stack
 - [docker-host](https://github.com/qoomon/docker-host) - A docker sidecar container to forward all traffic to local docker host or any other host
 - [bashtop](https://github.com/aristocratos/bashtop) - Linux/OSX/FreeBSD resource monitor
 - [homebrew-gomod](https://github.com/FiloSottile/homebrew-gomod) - A brew command to cleanly install binaries from Go modules.
