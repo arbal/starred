@@ -19,6 +19,7 @@
   - [Clojure](#clojure)
   - [CodeQL](#codeql)
   - [CoffeeScript](#coffeescript)
+  - [Common Lisp](#common-lisp)
   - [Crystal](#crystal)
   - [D](#d)
   - [Dart](#dart)
@@ -125,6 +126,7 @@
 
 ## C 
 
+- [mdp](https://github.com/visit1985/mdp) - A command-line based markdown presentation tool.
 - [flashcache](https://github.com/facebookarchive/flashcache) - A general purpose, write-back block cache for Linux.
 - [progress](https://github.com/Xfennec/progress) - Linux tool to show progress for cp, mv, dd, ... (formerly known as cv)
 - [stderred](https://github.com/sickill/stderred) - stderr in red
@@ -273,7 +275,7 @@
 - [mpssh](https://github.com/ndenev/mpssh) - Mass Parallel SSH
 - [cups-filters](https://github.com/OpenPrinting/cups-filters) - filters, backends, cups-browsed, ... - Everything which CUPS needs to be used on non-Mac systems
 - [pappl](https://github.com/michaelrsweet/pappl) - PAPPL - Printer Application Framework
-- [nnn](https://github.com/jarun/nnn) - n³ The unorthodox terminal file manager.
+- [nnn](https://github.com/jarun/nnn) - n³ The unorthodox terminal file manager
 - [nsd](https://github.com/NLnetLabs/nsd) - The NLnet Labs Name Server Daemon (NSD) is an authoritative, RFC compliant DNS nameserver.
 - [filebench](https://github.com/filebench/filebench) - File system and storage benchmark that uses a custom language to generate a large variety of workloads.
 - [nvidia-persistenced](https://github.com/NVIDIA/nvidia-persistenced) - NVIDIA driver persistence daemon
@@ -473,6 +475,11 @@
 
 ## C++ 
 
+- [terminal](https://github.com/microsoft/terminal) - The new Windows Terminal and the original Windows console host, all in the same place!
+- [xmrig-cuda](https://github.com/xmrig/xmrig-cuda) - NVIDIA CUDA plugin for XMRig miner
+- [xmrig](https://github.com/xmrig/xmrig) - RandomX, CryptoNight, AstroBWT and Argon2 CPU/GPU miner
+- [nzbget](https://github.com/nzbget/nzbget) - Efficient Usenet Downloader
+- [Smartnest](https://github.com/aososam/Smartnest) - Connect your own home automation devices to different services like Amazon Alexa, Google Home, Siri and IFTTT using MQTT communication
 - [thrust](https://github.com/NVIDIA/thrust) - The C++ parallel algorithms library.
 - [QLMarkdown](https://github.com/sbarex/QLMarkdown) - Quick Look extension for Markdown files on macOS Catalina and Big Sur.
 - [PyMeshLab](https://github.com/cnr-isti-vclab/PyMeshLab) - The open source mesh processing python library
@@ -676,6 +683,10 @@
 - [hubot-home-assistant](https://github.com/home-assistant/hubot-home-assistant) - :speech_balloon: Hubot module for interacting with Home Assistant via chat
 - [abao](https://github.com/cybertk/abao) - REST API automated testing tool based on RAML
 
+## Common Lisp 
+
+- [nyxt](https://github.com/atlas-engineer/nyxt) - Nyxt - the internet on your terms.
+
 ## Crystal 
 
 - [invidious](https://github.com/iv-org/invidious) - Invidious is an alternative front-end to YouTube
@@ -787,6 +798,7 @@
 
 ## Elixir 
 
+- [magnetissimo](https://github.com/sergiotapia/magnetissimo) - Web application that indexes all popular torrent sites, and saves it to the local database.
 - [awesome-elixir](https://github.com/h4cc/awesome-elixir) - A curated list of amazingly awesome Elixir and Erlang libraries, resources and shiny things. Updates:
 - [requestbox](https://github.com/kevinastone/requestbox) - HTTP Request Logger Similar to RequestBin written in Elixir+Phoenix
 - [crawler](https://github.com/fredwu/crawler) - A high performance web crawler in Elixir.
@@ -826,6 +838,13 @@
 
 ## Go 
 
+- [go-prompt](https://github.com/c-bata/go-prompt) - Building powerful interactive prompts in Go, inspired by python-prompt-toolkit.
+- [fping-exporter](https://github.com/schweikert/fping-exporter) - prometheus exporter to measure network latency
+- [ach](https://github.com/moov-io/ach) - ACH implements a reader, writer, and validator for Automated Clearing House (ACH) files. The HTTP server is available in a Docker image and the Go package is available.
+- [go-ethereum](https://github.com/ethereum/go-ethereum) - Official Go implementation of the Ethereum protocol
+- [distribyted](https://github.com/distribyted/distribyted) - :open_file_folder: :arrow_right: :tv: :notes: :video_game: Torrent client with on-demand file downloading as a filesystem.
+- [cloud-torrent](https://github.com/jpillora/cloud-torrent) - ☁️ Cloud Torrent: a self-hosted remote torrent client
+- [flixctl](https://github.com/eschizoid/flixctl) - A toolkit for controlling the infrastructure necessary for a true MaSaS (Movies and Shows as a Service) architecture.
 - [macro-ctl](https://github.com/adityaxdiwakar/macro-ctl) - macro-ctl is a control center system to allow for interaction between a client computer and a Google Home
 - [speedtest-cli](https://github.com/librespeed/speedtest-cli) - Command line client for LibreSpeed
 - [glauth](https://github.com/glauth/glauth) - A lightweight LDAP server for development, home use, or CI
@@ -1969,6 +1988,14 @@
 
 ## JavaScript 
 
+- [readline-sync](https://github.com/anseki/readline-sync) - Synchronous Readline for interactively running to have a conversation with the user via a console(TTY).
+- [Inquirer.js](https://github.com/SBoudrias/Inquirer.js) - A collection of common interactive command line user interfaces.
+- [cash-cli](https://github.com/xxczaki/cash-cli) - 💰💰 Convert currency rates directly from your terminal!
+- [dinero.js](https://github.com/dinerojs/dinero.js) - An immutable JavaScript library to create, calculate and format money.
+- [peerflix-server](https://github.com/asapach/peerflix-server) - Streaming torrent client for Node.js with web ui.
+- [multicast-dns](https://github.com/mafintosh/multicast-dns) - Low level multicast-dns implementation in pure javascript
+- [google-home-say](https://github.com/kmyk/google-home-say) - Get Google Home to say something
+- [Google-Home-Chatbot](https://github.com/kubowania/Google-Home-Chatbot) - Voice and Chatbot for Google Home
 - [google-home-notifier](https://github.com/noelportugal/google-home-notifier) - Send notifications to Google Home
 - [speedo-cli](https://github.com/xxczaki/speedo-cli) - ⌚️ Internet speed report in your terminal!
 - [fast-speedtest-api](https://github.com/branchard/fast-speedtest-api) - fast.com API / CLI tool
@@ -2760,6 +2787,7 @@
 
 ## Jupyter Notebook 
 
+- [cpi](https://github.com/datadesk/cpi) - Quickly adjust U.S. dollars for inflation using the Consumer Price Index (CPI)
 - [fastpages](https://github.com/fastai/fastpages) - An easy to use blogging platform, with enhanced support for Jupyter Notebooks.
 - [nbdev](https://github.com/fastai/nbdev) - Create delightful python projects using Jupyter Notebooks
 - [10k_Report_SEC](https://github.com/KuntalP/10k_Report_SEC) - To extract the text data from .txt SEC filings link.
@@ -2968,6 +2996,10 @@
 
 ## Others 
 
+- [Awesome-Hacking-Tools](https://github.com/m4ll0k/Awesome-Hacking-Tools) - Awesome Hacking Tools
+- [awesome-blockchain](https://github.com/imbaniac/awesome-blockchain) - Curated list of blockchain services and exchanges 🔥🏦🔥🏦🔥🏦🔥
+- [lemonade-stand](https://github.com/nayafia/lemonade-stand) - A handy guide to financial support for open source
+- [awesome-deepfakes](https://github.com/aerophile/awesome-deepfakes) - Everything Deepfakes
 - [awesome-interview-questions](https://github.com/DopplerHQ/awesome-interview-questions) - :octocat: A curated awesome list of lists of interview questions. Feel free to contribute! :mortar_board:
 - [awesome-cto](https://github.com/kuchin/awesome-cto) - A curated and opinionated list of resources for Chief Technology Officers, with the emphasis on startups
 - [browser](https://github.com/dothq/browser) - 🌍 Take back your privacy with Dot Browser, the privacy-conscious web browser that protects you from being tracked and monitored online.
@@ -3461,6 +3493,7 @@
 
 ## PHP 
 
+- [firefly-iii](https://github.com/firefly-iii/firefly-iii) - Firefly III: a personal finances manager
 - [koel](https://github.com/koel/koel) - 🐦 A personal music streaming server that works.
 - [monolog](https://github.com/Seldaek/monolog) - Sends your logs to files, sockets, inboxes, databases and various web services
 - [event-manager](https://github.com/doctrine/event-manager) - The Doctrine Event Manager is a library that provides a simple event system.
@@ -3564,11 +3597,13 @@
 
 ## Pascal 
 
+- [hfs2](https://github.com/rejetto/hfs2) - web based file server
 - [xidel](https://github.com/benibela/xidel) - Command line tool to download and extract data from HTML/XML pages or JSON-APIs, using CSS, XPath 3.0, XQuery 3.0, JSONiq or pattern matching.  It can also create new or transformed XML/HTML/JSON documents.
 - [transgui](https://github.com/transmission-remote-gui/transgui) - 🧲 A feature rich cross platform Transmission BitTorrent client. Faster and has more functionality than the built-in web GUI.
 
 ## Perl 
 
+- [docker-images](https://github.com/dreamcat4/docker-images) - Dreamcat4's Docker Images (Trusted Builds)
 - [ack3](https://github.com/beyondgrep/ack3) - ack is a grep-like search tool optimized for source code.
 - [FFCP-GCodeSnippets](https://github.com/DrLex0/FFCP-GCodeSnippets) - G-Code and scripts for using the FlashForge Creator Pro with PrusaSlicer (Slic3r)
 - [wack](https://github.com/leto/wack) - ack for wallet.dat's
@@ -3634,6 +3669,9 @@
 
 ## Python 
 
+- [faceit](https://github.com/goberoi/faceit) - A script to make it easy to swap faces in videos using the faceswap library, and YouTube videos.
+- [deepfakes_faceswap](https://github.com/joshua-wu/deepfakes_faceswap) - from deekfakes' faceswap: https://www.reddit.com/user/deepfakes/
+- [nzb-monkey](https://github.com/nzblnk/nzb-monkey) - Reference implementation of how to handle a NZBLNK-URI.
 - [google-home-notifier-python](https://github.com/harperreed/google-home-notifier-python) - A google home notification webservice
 - [gmvault](https://github.com/gaubert/gmvault) - gmail backup software
 - [Paddle](https://github.com/PaddlePaddle/Paddle) - PArallel Distributed Deep LEarning: Machine Learning Framework from Industrial Practice （『飞桨』核心框架，深度学习&机器学习高性能单机、分布式训练和跨平台部署）
@@ -4363,7 +4401,7 @@
 - [search-alfred-workflows](https://github.com/Acidham/search-alfred-workflows) - Search Alfred Workflows
 - [watsor](https://github.com/asmirnou/watsor) - Object detection for video surveillance
 - [examples-camera](https://github.com/google-coral/examples-camera) - Small code snippets that show how to stream camera images to a Coral device.
-- [coral-streaming-object-detector](https://github.com/balena-io-examples/coral-streaming-object-detector) - 
+- [coral-streaming-object-detector](https://github.com/balena-io-examples/coral-streaming-object-detector) - This example will help you deploy a streaming camera feed with realtime people detection using the Coral Edge TPU for on-device ML inferencing.
 - [rpi-deep-pantilt](https://github.com/leigh-johnson/rpi-deep-pantilt) - Object tracking tutorial using TensorFlow / TensorFlow Lite, Raspberry Pi, Pi Camera, and a Pimoroni Pan-Tilt Hat.
 - [edge_tpu](https://github.com/NobuoTsukamoto/edge_tpu) - TensorFlow Lite, Coral Edge TPU samples (Python/C++, Raspberry Pi/Windows/Linux).
 - [radar-ml](https://github.com/goruck/radar-ml) - Detect (classify and localize) people, pets and objects using millimeter-wave radar.
@@ -4844,6 +4882,7 @@
 
 ## Ruby 
 
+- [tty-prompt](https://github.com/piotrmurach/tty-prompt) - A beautiful and powerful interactive command line prompt
 - [homebrew-tap](https://github.com/librespeed/homebrew-tap) - Homebrew Tap for LibreSpeed
 - [freshcerts](https://github.com/unrelentingtech/freshcerts) - ACME certificate protocol (Let's Encrypt) proxy client with a dashboard and monitoring
 - [webdrivers](https://github.com/titusfortner/webdrivers) - Keep your Selenium WebDrivers updated automatically
@@ -5110,6 +5149,15 @@
 
 ## Shell 
 
+- [Inquirer.sh](https://github.com/kahkhang/Inquirer.sh) - Modern terminal prompt inspired by inquirer.js
+- [prips.sh](https://github.com/honzahommer/prips.sh) - Print the IP addresses in a given range
+- [cloudflare-fping](https://github.com/woniuzfb/cloudflare-fping) - ping all cloudflare ips to find the best ip. 一键自选 cloudflare 最优 IP 并测速
+- [bashReconScan](https://github.com/carlospolop/bashReconScan) - Bash Recon Scan - Recon and Scan a network using Bash
+- [swizzin](https://github.com/swizzin/swizzin) - A simple, modular seedbox solution
+- [tor-router](https://github.com/Edu4rdSHL/tor-router) - A tool that allow you to make TOR your default gateway and send all internet connections under TOR (as transparent proxy) for increase privacy/anonymity without extra unnecessary code.
+- [pipework](https://github.com/jpetazzo/pipework) - Software-Defined Networking tools for LXC (LinuX Containers)
+- [Enable-HiDPI-OSX](https://github.com/syscl/Enable-HiDPI-OSX) - Enable HiDPI on OS X
+- [one-key-hidpi](https://github.com/xzhih/one-key-hidpi) - Enable macOS HiDPI and have a native setting.
 - [spdtest.sh](https://github.com/aristocratos/spdtest.sh) - Internet speed reability tester
 - [speedtest-linux](https://github.com/rsvp/speedtest-linux) - Get download/upload speeds via speedtest.net or fast.com from command line using Bash script -- suitable for logs. POSIX OSX Linux
 - [nench](https://github.com/n-st/nench) - VPS benchmark script — based on the popular bench.sh, plus CPU and ioping tests, and dual-stack IPv4 and v6 speedtests by default
@@ -5742,6 +5790,7 @@
 
 ## Swift 
 
+- [PopcornTimeTV](https://github.com/PopcornTimeTV/PopcornTimeTV) - Popcorn Time for Apple TV 4, iPhone and iPad
 - [DevUtils-app](https://github.com/DevUtilsApp/DevUtils-app) - Offline Toolbox for Developers
 - [uti](https://github.com/alexisakers/uti) - CLI Tool for Interacting with File Type Identifiers on Mac
 - [Jared](https://github.com/ZekeSnider/Jared) - An easily extensible chat bot for iMessage written in Swift.
@@ -5834,6 +5883,7 @@
 
 ## TypeScript 
 
+- [bobarr](https://github.com/iam4x/bobarr) - 🍿 The all-in-one alternative for Sonarr, Radarr, Jackett... with a VPN and running in docker
 - [formik](https://github.com/formium/formik) - Build forms in React, without the tears 😭
 - [root-cause](https://github.com/testimio/root-cause) - 🔍 Root Cause is a tool for troubleshooting Puppeteer and Playwright tests. 🔎
 - [homebridge-z2m](https://github.com/itavero/homebridge-z2m) - Expose your Zigbee devices to HomeKit with ease, by integrating 🐝 Zigbee2MQTT with 🏠 Homebridge.
