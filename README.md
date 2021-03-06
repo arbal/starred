@@ -656,6 +656,7 @@
 
 ## Clojure 
 
+- [FiraCode](https://github.com/tonsky/FiraCode) - Free monospaced font with programming ligatures
 - [konstellate](https://github.com/jeremykross/konstellate) - Free and Open Source GUI to Visualize Kubernetes Applications.
 - [penpot](https://github.com/penpot/penpot) - Penpot - The Open-Source design & prototyping platform
 - [asciinema-player](https://github.com/asciinema/asciinema-player) - Web player for terminal session recordings ⏩
@@ -838,6 +839,7 @@
 
 ## Go 
 
+- [oneshot](https://github.com/raphaelreyna/oneshot) - A first-come first-served single-fire HTTP server. Easily transfer files to and from your terminal and any browser.
 - [go-prompt](https://github.com/c-bata/go-prompt) - Building powerful interactive prompts in Go, inspired by python-prompt-toolkit.
 - [fping-exporter](https://github.com/schweikert/fping-exporter) - prometheus exporter to measure network latency
 - [ach](https://github.com/moov-io/ach) - ACH implements a reader, writer, and validator for Automated Clearing House (ACH) files. The HTTP server is available in a Docker image and the Go package is available.
@@ -1681,7 +1683,7 @@
 - [motifini](https://github.com/davidnewhall/motifini) - Events-driven, notification subscription system, with SecuritySpy and iMessage integration.
 - [traefik](https://github.com/traefik/traefik) - The Cloud Native Application Proxy
 - [filestash](https://github.com/mickael-kerjean/filestash) - 🦄 A modern web client for SFTP, S3, FTP, WebDAV, Git, Minio, LDAP, CalDAV, CardDAV, Mysql, Backblaze, ...
-- [tyk](https://github.com/TykTechnologies/tyk) - Tyk Open Source API Gateway written in Go
+- [tyk](https://github.com/TykTechnologies/tyk) - Tyk Open Source API Gateway written in Go, supporting REST, GraphQL, TCP and gRPC protocols
 - [istio](https://github.com/istio/istio) - Connect, secure, control, and observe services.
 - [find3-cli-scanner](https://github.com/schollz/find3-cli-scanner) - The command-line scanner that supports Bluetooth and WiFi
 - [webhook](https://github.com/adnanh/webhook) - webhook is a lightweight incoming webhook server to run shell commands
@@ -1988,6 +1990,9 @@
 
 ## JavaScript 
 
+- [fenix](https://github.com/coreybutler/fenix) - A simple and visual static web server with collaboration features.
+- [scar](https://github.com/cloudkj/scar) - Deploy static websites in seconds - with HTTPS, a global CDN, and custom domains.
+- [gohttpserver](https://github.com/codeskyblue/gohttpserver) - The best HTTP Static File Server, write with golang+vue
 - [readline-sync](https://github.com/anseki/readline-sync) - Synchronous Readline for interactively running to have a conversation with the user via a console(TTY).
 - [Inquirer.js](https://github.com/SBoudrias/Inquirer.js) - A collection of common interactive command line user interfaces.
 - [cash-cli](https://github.com/xxczaki/cash-cli) - 💰💰 Convert currency rates directly from your terminal!
@@ -3669,6 +3674,7 @@
 
 ## Python 
 
+- [truffleHog](https://github.com/dxa4481/truffleHog) - Searches through git repositories for high entropy strings and secrets, digging deep into commit history
 - [faceit](https://github.com/goberoi/faceit) - A script to make it easy to swap faces in videos using the faceswap library, and YouTube videos.
 - [deepfakes_faceswap](https://github.com/joshua-wu/deepfakes_faceswap) - from deekfakes' faceswap: https://www.reddit.com/user/deepfakes/
 - [nzb-monkey](https://github.com/nzblnk/nzb-monkey) - Reference implementation of how to handle a NZBLNK-URI.
@@ -4882,6 +4888,7 @@
 
 ## Ruby 
 
+- [stayinghomeclub](https://github.com/phildini/stayinghomeclub) - A list of all the companies WFH or events changed because of covid-19
 - [tty-prompt](https://github.com/piotrmurach/tty-prompt) - A beautiful and powerful interactive command line prompt
 - [homebrew-tap](https://github.com/librespeed/homebrew-tap) - Homebrew Tap for LibreSpeed
 - [freshcerts](https://github.com/unrelentingtech/freshcerts) - ACME certificate protocol (Let's Encrypt) proxy client with a dashboard and monitoring
@@ -5000,6 +5007,7 @@
 
 ## Rust 
 
+- [regex](https://github.com/rust-lang/regex) - An implementation of regular expressions for Rust. This implementation uses finite automata and guarantees linear time matching on all inputs.
 - [shodan-rust](https://github.com/femiagbabiaka/shodan-rust) - rusty shodan
 - [adblock-rust](https://github.com/brave/adblock-rust) - Brave's Rust-based adblock engine
 - [tree_magic](https://github.com/aahancoc/tree_magic) - Determines the MIME type of a file by traversing a filetype tree.
@@ -5149,6 +5157,7 @@
 
 ## Shell 
 
+- [DeepFaceLab_Linux](https://github.com/nagadit/DeepFaceLab_Linux) - DeepFaceLab is the leading software for creating deepfakes.
 - [Inquirer.sh](https://github.com/kahkhang/Inquirer.sh) - Modern terminal prompt inspired by inquirer.js
 - [prips.sh](https://github.com/honzahommer/prips.sh) - Print the IP addresses in a given range
 - [cloudflare-fping](https://github.com/woniuzfb/cloudflare-fping) - ping all cloudflare ips to find the best ip. 一键自选 cloudflare 最优 IP 并测速
@@ -5259,7 +5268,7 @@
 - [powerlevel10k](https://github.com/romkatv/powerlevel10k) - A Zsh theme
 - [concourse-buildkit](https://github.com/issho-ni/concourse-buildkit) - Use BuildKit to build OCI-compliant tarballs in Concourse
 - [bash-boilerplate](https://github.com/xwmx/bash-boilerplate) - A collection of Bash scripts for creating safe and useful command line programs.
-- [tools-osx](https://github.com/morgant/tools-osx) - A small collection of command line tools for Mac OS X, incl.: clipcat, dict, eject, ql, swuser, trash & with.
+- [tools-osx](https://github.com/morgant/tools-osx) - A small collection of command line tools for Mac OS X, incl.: clipcat, dict, eject, launch, ql, swuser, trash & with.
 - [climate](https://github.com/adtac/climate) - The swiss-army knife of utility tools for Linux.
 - [shpotify](https://github.com/hnarayanan/shpotify) - A command-line interface to Spotify
 - [scripts-for-using-rsync](https://github.com/Spearfoot/scripts-for-using-rsync) - Shell scripts for using rsync
