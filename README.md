@@ -126,6 +126,7 @@
 
 ## C 
 
+- [batman-adv](https://github.com/open-mesh-mirror/batman-adv) - batman-adv
 - [mdp](https://github.com/visit1985/mdp) - A command-line based markdown presentation tool.
 - [flashcache](https://github.com/facebookarchive/flashcache) - A general purpose, write-back block cache for Linux.
 - [progress](https://github.com/Xfennec/progress) - Linux tool to show progress for cp, mv, dd, ... (formerly known as cv)
@@ -336,7 +337,6 @@
 - [nvme-cli](https://github.com/linux-nvme/nvme-cli) - NVMe management command line interface.
 - [OpenCorsairLink](https://github.com/audiohacked/OpenCorsairLink) - Linux and Mac OS support for the CorsairLink Devices
 - [ttyplot](https://github.com/tenox7/ttyplot) - a realtime plotting utility for terminal/console with data input from stdin
-- [alfred-workflows](https://github.com/vitorgalvao/alfred-workflows) - Collection of Alfred workflows
 - [sun](https://github.com/troglobit/sun) - Simple library and application that shows sunset and sunrise based on your latitude,longitude
 - [lspci-ng](https://github.com/mywave82/lspci-ng) - lspci wrapper that also combines information about PCI port names nvidia-smi information, etc.
 - [NetworkManager](https://github.com/NetworkManager/NetworkManager) - Read-only Mirror of the freedesktop.org repository. Please make pull requests against freedesktop.org.
@@ -839,6 +839,8 @@
 
 ## Go 
 
+- [urinception](https://github.com/heroku/urinception) - Data URIs over HTTP
+- [dataurl](https://github.com/vincent-petithory/dataurl) - Data URL Schemes in Golang
 - [oneshot](https://github.com/raphaelreyna/oneshot) - A first-come first-served single-fire HTTP server. Easily transfer files to and from your terminal and any browser.
 - [go-prompt](https://github.com/c-bata/go-prompt) - Building powerful interactive prompts in Go, inspired by python-prompt-toolkit.
 - [fping-exporter](https://github.com/schweikert/fping-exporter) - prometheus exporter to measure network latency
@@ -1887,6 +1889,7 @@
 
 ## Java 
 
+- [graal](https://github.com/oracle/graal) - GraalVM: Run Programs Faster Anywhere :rocket:
 - [webdrivermanager](https://github.com/bonigarcia/webdrivermanager) - Automated driver management for Selenium WebDriver
 - [zalenium](https://github.com/zalando/zalenium) - A flexible and scalable container based Selenium Grid with video recording, live preview, basic auth & dashboard.
 - [selenium](https://github.com/SeleniumHQ/selenium) - A browser automation framework and ecosystem.
@@ -1990,6 +1993,7 @@
 
 ## JavaScript 
 
+- [dc.js](https://github.com/dc-js/dc.js) - Multi-Dimensional charting built to work natively with crossfilter rendered with d3.js
 - [fenix](https://github.com/coreybutler/fenix) - A simple and visual static web server with collaboration features.
 - [scar](https://github.com/cloudkj/scar) - Deploy static websites in seconds - with HTTPS, a global CDN, and custom domains.
 - [gohttpserver](https://github.com/codeskyblue/gohttpserver) - The best HTTP Static File Server, write with golang+vue
@@ -2661,7 +2665,6 @@
 - [microbundle](https://github.com/developit/microbundle) - 📦 Zero-configuration bundler for tiny modules.
 - [Shinobi](https://github.com/moeiscool/Shinobi) - :peace_symbol: :palestinian_territories: Shinobi CE - The Free Open Source CCTV platform written in Node.JS (Camera Recorder - Security Surveillance Software - Restreamer
 - [eagle-mqtt-bridge](https://github.com/thevoltagesource/eagle-mqtt-bridge) - Rainforest Eagle to MQTT Bridge
-- [lovelace-auto-entities](https://github.com/thomasloven/lovelace-auto-entities) - 🔹Automatically populate the entities-list of lovelace cards
 - [eat](https://github.com/antonmedv/eat) - Eat everything 🧀
 - [do-not-disturb-cli](https://github.com/sindresorhus/do-not-disturb-cli) - Control the macOS `Do Not Disturb` feature from the command-line
 - [hubot-test-helper](https://github.com/mtsmfm/hubot-test-helper) - Helper for testing hubot script
@@ -3001,6 +3004,8 @@
 
 ## Others 
 
+- [blockchain-reading-list](https://github.com/reiver/blockchain-reading-list) - A reading list on blockchain and related technologies, targeted at technical people who want a deep understanding of those topics.
+- [sec-tool-list](https://github.com/alphaSeclab/sec-tool-list) - More than 21K security related open source tools, sorted by star count. Both in markdown and json format.
 - [Awesome-Hacking-Tools](https://github.com/m4ll0k/Awesome-Hacking-Tools) - Awesome Hacking Tools
 - [awesome-blockchain](https://github.com/imbaniac/awesome-blockchain) - Curated list of blockchain services and exchanges 🔥🏦🔥🏦🔥🏦🔥
 - [lemonade-stand](https://github.com/nayafia/lemonade-stand) - A handy guide to financial support for open source
@@ -3608,6 +3613,7 @@
 
 ## Perl 
 
+- [DataURLToolkit](https://github.com/sveinbjornt/DataURLToolkit) - Various tools for working with Data URLs, incl. web application (http://dataurl.net), Mac OS X GUI app, command line tool, Perl modules and Apache module.
 - [docker-images](https://github.com/dreamcat4/docker-images) - Dreamcat4's Docker Images (Trusted Builds)
 - [ack3](https://github.com/beyondgrep/ack3) - ack is a grep-like search tool optimized for source code.
 - [FFCP-GCodeSnippets](https://github.com/DrLex0/FFCP-GCodeSnippets) - G-Code and scripts for using the FlashForge Creator Pro with PrusaSlicer (Slic3r)
@@ -3674,6 +3680,10 @@
 
 ## Python 
 
+- [dnsdumpster](https://github.com/nmmapper/dnsdumpster) - A tool to perform DNS reconnaissance on target networks. Among the DNS information got from include subdomains, mx records, web application firewall detection and more fingerprinting and lookups
+- [algo](https://github.com/trailofbits/algo) - Set up a personal VPN in the cloud
+- [notes_export_tool](https://github.com/SamOh/notes_export_tool) - Tool to export apple notes
+- [nginx-proxy-avahi-helper](https://github.com/hardillb/nginx-proxy-avahi-helper) - A container to generate matching mDNS CNAMEs for the virtual hosts used by jwilder/nginx-proxy
 - [truffleHog](https://github.com/dxa4481/truffleHog) - Searches through git repositories for high entropy strings and secrets, digging deep into commit history
 - [faceit](https://github.com/goberoi/faceit) - A script to make it easy to swap faces in videos using the faceswap library, and YouTube videos.
 - [deepfakes_faceswap](https://github.com/joshua-wu/deepfakes_faceswap) - from deekfakes' faceswap: https://www.reddit.com/user/deepfakes/
@@ -4888,6 +4898,8 @@
 
 ## Ruby 
 
+- [SiriProxy](https://github.com/plamoni/SiriProxy) - A (tampering) proxy server for Apple's Siri
+- [notes-exporter](https://github.com/KrauseFx/notes-exporter) - Because GPDR exists for a reason, oh hi Apple
 - [stayinghomeclub](https://github.com/phildini/stayinghomeclub) - A list of all the companies WFH or events changed because of covid-19
 - [tty-prompt](https://github.com/piotrmurach/tty-prompt) - A beautiful and powerful interactive command line prompt
 - [homebrew-tap](https://github.com/librespeed/homebrew-tap) - Homebrew Tap for LibreSpeed
@@ -5157,6 +5169,7 @@
 
 ## Shell 
 
+- [subnodes](https://github.com/chootka/subnodes) - Subnodes is an open source project that configures your Raspberry Pi as a wireless AP, Node.js server, and BATMAN ADV mesh point.
 - [DeepFaceLab_Linux](https://github.com/nagadit/DeepFaceLab_Linux) - DeepFaceLab is the leading software for creating deepfakes.
 - [Inquirer.sh](https://github.com/kahkhang/Inquirer.sh) - Modern terminal prompt inspired by inquirer.js
 - [prips.sh](https://github.com/honzahommer/prips.sh) - Print the IP addresses in a given range
@@ -5691,6 +5704,7 @@
 - [Audiblex](https://github.com/naueramant/Audiblex) - Audible audio book converter which actually works!
 - [iocage-plugin-index](https://github.com/ix-plugin-hub/iocage-plugin-index) - Community created JSON files for plugins.
 - [cloudfuzzer](https://github.com/ouspg/cloudfuzzer) - 
+- [alfred-workflows](https://github.com/vitorgalvao/alfred-workflows) - Collection of Alfred workflows
 - [notificator](https://github.com/vitorgalvao/notificator) - Show macOS notifications with a custom icon
 - [fast-syntax-highlighting](https://github.com/zdharma/fast-syntax-highlighting) - (Short name F-Sy-H). Syntax-highlighting for Zshell – fine granularity, number of features and multiple shipped themes.
 - [gitea-cli](https://github.com/bashup/gitea-cli) - Extensible, configurable command-line API client for gitea and gogs
@@ -6071,6 +6085,7 @@
 - [vscode](https://github.com/microsoft/vscode) - Visual Studio Code
 - [grafana](https://github.com/grafana/grafana) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more.
 - [puppeteer](https://github.com/puppeteer/puppeteer) - Headless Chrome Node.js API
+- [lovelace-auto-entities](https://github.com/thomasloven/lovelace-auto-entities) - 🔹Automatically populate the entities-list of lovelace cards
 - [shortcuts-js](https://github.com/joshfarrant/shortcuts-js) - A JavaScript iOS 12 Shortcuts creator
 - [scpl](https://github.com/pfgithub/scpl) - text language for writing ios shortcuts faster
 - [starter-workflows](https://github.com/actions/starter-workflows) - Accelerating new GitHub Actions workflows
