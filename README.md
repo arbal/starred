@@ -1121,7 +1121,7 @@
 - [remotedialer](https://github.com/rancher/remotedialer) - HTTP in TCP in Websockets in HTTP in TCP, Tunnel all the things!
 - [tunneller](https://github.com/skx/tunneller) - Allow internal services, running on localhost, to be accessed over the internet..
 - [inletsctl](https://github.com/inlets/inletsctl) - The fastest way to create self-hosted exit-servers
-- [inlets](https://github.com/inlets/inlets) - Cloud Native Tunnel for APIs
+- [inlets](https://github.com/inlets/inlets) - Cloud Native Tunnel
 - [hera](https://github.com/aschzero/hera) - Automated secure tunnels for containers using Cloudflare Argo
 - [cloudflared](https://github.com/cloudflare/cloudflared) - Argo Tunnel client
 - [realize](https://github.com/oxequa/realize) - Realize is the #1 Golang Task Runner which enhance your workflow by automating the most common tasks and using the best performing Golang live reloading.
@@ -1185,7 +1185,7 @@
 - [systemd-monitoring](https://github.com/SCHKN/systemd-monitoring) - a simple way to monitor systemd services using go, influxdb and chronograf
 - [find3](https://github.com/schollz/find3) - High-precision indoor positioning framework, version 3.
 - [pulumi](https://github.com/pulumi/pulumi) - Pulumi - Modern Infrastructure as Code. Any cloud, any language 🚀
-- [seaweedfs](https://github.com/chrislusf/seaweedfs) - SeaweedFS is a distributed blob store and file system to store and serve billions of files fast! Blob store has O(1) disk seek, local tiering, cloud tiering. Filer supports cross-cluster active-active replication, Kubernetes, POSIX, S3 API, encryption, Erasure Coding for warm storage, FUSE mount, Hadoop, WebDAV.
+- [seaweedfs](https://github.com/chrislusf/seaweedfs) - SeaweedFS is a distributed storage system for blobs, objects, files, and data warehouse, to store and serve billions of files fast! Blob store has O(1) disk seek, local tiering, cloud tiering. Filer supports cross-cluster active-active replication, Kubernetes, POSIX, S3 API, encryption, Erasure Coding for warm storage, FUSE mount, Hadoop, WebDAV.
 - [gaze](https://github.com/wtetsu/gaze) - 👁️Executes commands for you
 - [mqtt-cli](https://github.com/shuza/mqtt-cli) - A cli application written in Go to provide terminal interaction with EMQ
 - [securityspy](https://github.com/golift/securityspy) - Full Featured Go Library for SecuritySpy
@@ -2392,7 +2392,7 @@
 - [Side-Auto_Sci-Hub](https://github.com/RoiArthurB/Side-Auto_Sci-Hub) - Cross-Browser Plugin to open Sci-Hub 🗝 page with the article from your current tab
 - [homebridge-server](https://github.com/gismo141/homebridge-server) - Server plugin for homebridge
 - [homebridge-ws](https://github.com/ebaauw/homebridge-ws) - Homebridege plugin for virtual weather station
-- [homebridge-securitysystem](https://github.com/MiguelRipoll23/homebridge-securitysystem) - Homebridge plugin that creates a security system accessory that can be triggered by HomeKit accessories.
+- [homebridge-securitysystem](https://github.com/MiguelRipoll23/homebridge-securitysystem) - Homebridge plugin that creates a security system accessory that can be triggered by HomeKit sensors.
 - [homebridge-roomba](https://github.com/umesan/homebridge-roomba) - Homebridge Plugin for Roomba980
 - [homebridge-script2](https://github.com/pponce/homebridge-script2) - Execute custom scripts via HomeKit apps
 - [homebridge-http-is-it-down](https://github.com/sahilchaddha/homebridge-http-is-it-down) - Homebridge Plugin to alert occupancy whenever Target goes down/up
@@ -2448,7 +2448,7 @@
 - [swagger-stats](https://github.com/slanatech/swagger-stats) - API Observability. Trace API calls and Monitor API performance, health and usage statistics in Node.js Microservices.
 - [reopen-cli](https://github.com/kutsan/reopen-cli) - Improvement over `open` utility for macOS and Chrome; open URLs in the browser but instead of creating new tabs every time, use existing ones by mutating them.
 - [puppeteer-github-cli](https://github.com/transitive-bullshit/puppeteer-github-cli) - CLI for GitHub automation driven by headless chrome.
-- [extension-cli](https://github.com/MobileFirstLLC/extension-cli) - Command line tool for building extensions for chromium based browsers.
+- [extension-cli](https://github.com/MobileFirstLLC/extension-cli) - Command line tool for building extensions/add-ons for chromium based browsers.
 - [chrome-extension-cli](https://github.com/dutiyesh/chrome-extension-cli) - 🚀 The CLI for your next Chrome Extension
 - [chromecast-cli](https://github.com/erkstruwe/chromecast-cli) - Command line interface for Google Chromecast
 - [perf-timeline-cli](https://github.com/CondeNast/perf-timeline-cli) - Generate Chrome Performance Timelines via a command line interface
@@ -3680,6 +3680,7 @@
 
 ## Python 
 
+- [doh-proxy](https://github.com/facebookexperimental/doh-proxy) - A proof of concept DNS-Over-HTTPS proxy implementing https://datatracker.ietf.org/doc/draft-ietf-doh-dns-over-https/
 - [dnsdumpster](https://github.com/nmmapper/dnsdumpster) - A tool to perform DNS reconnaissance on target networks. Among the DNS information got from include subdomains, mx records, web application firewall detection and more fingerprinting and lookups
 - [algo](https://github.com/trailofbits/algo) - Set up a personal VPN in the cloud
 - [notes_export_tool](https://github.com/SamOh/notes_export_tool) - Tool to export apple notes
@@ -5418,7 +5419,7 @@
 - [kubernetes-lxd](https://github.com/corneliusweig/kubernetes-lxd) - A step-by-step guide to get kubernetes running inside an LXC container
 - [awesome-apache-airflow](https://github.com/jghoman/awesome-apache-airflow) - Curated list of resources about Apache Airflow
 - [proxmox_forward_port](https://github.com/ruslan-gennadievich/proxmox_forward_port) - Bash script to auto port forward when create new CT in Proxmox
-- [add-ranchernodes-on-proxmox](https://github.com/osmanbedrettin/add-ranchernodes-on-proxmox) - Simple Web UI to add Rancher nodes.
+- [add-ranchernodes-on-proxmox](https://github.com/ciddikedi/add-ranchernodes-on-proxmox) - Simple Web UI to add Rancher nodes.
 - [proxmox-snmp](https://github.com/in-famous-raccoon/proxmox-snmp) - SNMP Scripts for Proxmox
 - [bash-misc](https://github.com/slitsevych/bash-misc) - Collection of bash scripts for different purposes
 - [proxmox-vzbackup-rclone](https://github.com/TheRealAlexV/proxmox-vzbackup-rclone) - This is a vzbackup hook script that backups up your proxmox vm's, container's and pve config's to remote storage using proxmox's native vzbackup tool and rclone.
@@ -5906,6 +5907,7 @@
 
 ## TypeScript 
 
+- [vsflux](https://github.com/influxdata/vsflux) - Flux language extension for VSCode
 - [bobarr](https://github.com/iam4x/bobarr) - 🍿 The all-in-one alternative for Sonarr, Radarr, Jackett... with a VPN and running in docker
 - [formik](https://github.com/formium/formik) - Build forms in React, without the tears 😭
 - [root-cause](https://github.com/testimio/root-cause) - 🔍 Root Cause is a tool for troubleshooting Puppeteer and Playwright tests. 🔎
