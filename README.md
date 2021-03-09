@@ -724,7 +724,6 @@
 - [docker-xowa](https://github.com/QuantumObject/docker-xowa) - docker container for xowa (offline wikipedia)
 - [docker-cowrie](https://github.com/cowrie/docker-cowrie) - Cowrie Docker GitHub repository
 - [docker-tautulli](https://github.com/linuxserver/docker-tautulli) - 
-- [docker-fr24feed-piaware-dump1090](https://github.com/Thom-x/docker-fr24feed-piaware-dump1090) - Docker image of Fr24feed, FlightAware and Dump1090-fa.
 - [adsb-docker](https://github.com/compujuckel/adsb-docker) - dump1090-fa, piaware and fr24feed together with docker-compose
 - [docker-spark](https://github.com/big-data-europe/docker-spark) - Apache Spark docker image
 - [sdrangel-docker](https://github.com/f4exb/sdrangel-docker) - Running SDRangel in a Docker container
@@ -834,6 +833,10 @@
 
 ## Go 
 
+- [repo-security-scanner](https://github.com/UKHomeOffice/repo-security-scanner) - CLI tool that finds secrets accidentally committed to a git repo, eg passwords, private keys
+- [caddy2-proxyprotocol](https://github.com/mastercactapus/caddy2-proxyprotocol) - 
+- [caddy-openapi](https://github.com/chukmunnlee/caddy-openapi) - A Caddy module to validate HTTP request and response against a OpenAPI spec (V3) file
+- [caddy-exec](https://github.com/abiosoft/caddy-exec) - Caddy v2 module for running one-off commands
 - [urinception](https://github.com/heroku/urinception) - Data URIs over HTTP
 - [dataurl](https://github.com/vincent-petithory/dataurl) - Data URL Schemes in Golang
 - [oneshot](https://github.com/raphaelreyna/oneshot) - A first-come first-served single-fire HTTP server. Easily transfer files to and from your terminal and any browser.
@@ -2318,6 +2321,7 @@
 - [whistle](https://github.com/avwo/whistle) - HTTP, HTTP2, HTTPS, Websocket debugging proxy
 - [goldpinger](https://github.com/bloomberg/goldpinger) - Debugging tool for Kubernetes which tests and displays connectivity between nodes in the cluster.
 - [airplanejs](https://github.com/watson/airplanejs) - 📡 ✈️ App that picks up ADS-B radio signals from airplanes and plots them in real time on a map in your browser
+- [docker-fr24feed-piaware-dump1090](https://github.com/Thom-x/docker-fr24feed-piaware-dump1090) - Docker image of Fr24feed, FlightAware and Dump1090-fa.
 - [tar1090](https://github.com/wiedehopf/tar1090) - Provides an improved webinterface for use with ADS-B decoders readsb / dump1090-fa
 - [nothing-private](https://github.com/gautamkrishnar/nothing-private) - Do you think you are safe using private browsing or incognito mode?. :smile: :imp: This will prove that you're wrong.
 - [scratch-script](https://github.com/Steve-xmh/scratch-script) - A toolchain to make scratch project using a special coding language without drag any thing.
@@ -3000,6 +3004,7 @@
 
 ## Others 
 
+- [awesome-stars](https://github.com/arbal/awesome-stars) - A curated list of my GitHub stars!
 - [blockchain-reading-list](https://github.com/reiver/blockchain-reading-list) - A reading list on blockchain and related technologies, targeted at technical people who want a deep understanding of those topics.
 - [sec-tool-list](https://github.com/alphaSeclab/sec-tool-list) - More than 21K security related open source tools, sorted by star count. Both in markdown and json format.
 - [Awesome-Hacking-Tools](https://github.com/m4ll0k/Awesome-Hacking-Tools) - Awesome Hacking Tools
@@ -3676,6 +3681,7 @@
 
 ## Python 
 
+- [github-dorks](https://github.com/techgaun/github-dorks) - Find leaked secrets via github search
 - [TKperf](https://github.com/thomas-krenn/TKperf) - Performance test tool for SSDs, HDDs and RAID devices
 - [doh-proxy](https://github.com/facebookexperimental/doh-proxy) - A proof of concept DNS-Over-HTTPS proxy implementing https://datatracker.ietf.org/doc/draft-ietf-doh-dns-over-https/
 - [dnsdumpster](https://github.com/nmmapper/dnsdumpster) - A tool to perform DNS reconnaissance on target networks. Among the DNS information got from include subdomains, mx records, web application firewall detection and more fingerprinting and lookups
@@ -5167,6 +5173,7 @@
 
 ## Shell 
 
+- [git-secrets](https://github.com/awslabs/git-secrets) - Prevents you from committing secrets and credentials into git repositories
 - [subnodes](https://github.com/chootka/subnodes) - Subnodes is an open source project that configures your Raspberry Pi as a wireless AP, Node.js server, and BATMAN ADV mesh point.
 - [DeepFaceLab_Linux](https://github.com/nagadit/DeepFaceLab_Linux) - DeepFaceLab is the leading software for creating deepfakes.
 - [Inquirer.sh](https://github.com/kahkhang/Inquirer.sh) - Modern terminal prompt inspired by inquirer.js
