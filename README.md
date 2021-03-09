@@ -7,7 +7,6 @@
 
   - [AppleScript](#applescript)
   - [Arduino](#arduino)
-  - [AutoHotkey](#autohotkey)
   - [AutoIt](#autoit)
   - [Awk](#awk)
   - [BitBake](#bitbake)
@@ -107,10 +106,6 @@
 ## Arduino 
 
 - [Webduino](https://github.com/sirleech/Webduino) - Arduino WebServer library
-
-## AutoHotkey 
-
-- [Capslock](https://github.com/Vonng/Capslock) - Make Capslock Great Again!
 
 ## AutoIt 
 
@@ -662,7 +657,7 @@
 - [asciinema-player](https://github.com/asciinema/asciinema-player) - Web player for terminal session recordings ⏩
 - [riemann](https://github.com/riemann/riemann) - A network event stream processing system, in Clojure.
 - [oz](https://github.com/metasoarous/oz) - Data visualizations in Clojure and ClojureScript using Vega and Vega-lite
-- [athens](https://github.com/athensresearch/athens) - Desktop app links: https://tinyurl.com/athens-mac, https://tinyurl.com/athens-windows, https://tinyurl.com/athens-linux; paid tiers available through https://opencollective.com/athens; try the demo at https://athensresearch.github.io/athens
+- [athens](https://github.com/athensresearch/athens) - Desktop app links: https://tinyurl.com/athens-mac, https://tinyurl.com/athens-mac-1, https://tinyurl.com/athens-windows, https://tinyurl.com/athens-linux; paid tiers available through https://opencollective.com/athens; try the demo at https://athensresearch.github.io/athens
 - [yetibot](https://github.com/yetibot/yetibot) - 🤖 Extreme chatops bot for Slack and IRC 🔧 New contributors welcome 🏗
 - [swarmpit](https://github.com/swarmpit/swarmpit) - Lightweight mobile-friendly Docker Swarm management UI
 - [metabase](https://github.com/metabase/metabase) - The simplest, fastest way to get business intelligence and analytics  to everyone in your company :yum:
@@ -1236,6 +1231,7 @@
 - [ofelia](https://github.com/mcuadros/ofelia) - A docker job scheduler (aka. crontab for docker)
 - [logspout](https://github.com/gliderlabs/logspout) - Log routing for Docker container logs
 - [ipfs-cluster](https://github.com/ipfs/ipfs-cluster) - Pinset orchestration for IPFS
+- [xbar](https://github.com/matryer/xbar) - Put the output from any script or program into your macOS Menu Bar
 - [direnv](https://github.com/direnv/direnv) - unclutter your .profile
 - [blast](https://github.com/mosuka/blast) - Blast is a full text search and indexing server, written in Go, built on top of Bleve.
 - [goss](https://github.com/aelsabbahy/goss) - Quick and Easy server testing/validation
@@ -1817,6 +1813,7 @@
 - [ansible-role-zsh_antibody](https://github.com/iancleary/ansible-role-zsh_antibody) - Ansible role to install ZSH, with the antibody plugin manager
 - [debops](https://github.com/debops/debops) - DebOps - Your Debian-based data center in a box
 - [swarmstack](https://github.com/swarmstack/swarmstack) - A Docker swarm-based starting point for operating highly-available containerized applications.
+- [Capslock](https://github.com/Vonng/Capslock) - Make Capslock Great Again!
 - [ansible](https://github.com/guppy0130/ansible) - Speedy config time
 - [KE-complex_modifications](https://github.com/pqrs-org/KE-complex_modifications) - Karabiner-Elements complex_modifications rules
 - [Airshare](https://github.com/KuroLabs/Airshare) - Cross-platform content sharing in a local network
@@ -2968,7 +2965,6 @@
 - [AssetCatalogTinkerer](https://github.com/insidegui/AssetCatalogTinkerer) - An app that lets you open .car files and browse/extract their images.
 - [Amphetamine-Enhancer](https://github.com/x74353/Amphetamine-Enhancer) - Add new abilities to the macOS keep-awake utility, Amphetamine.
 - [firmware-open](https://github.com/system76/firmware-open) - System76 Open Firmware
-- [bitbar](https://github.com/matryer/bitbar) - Put the output from any script or program in your Mac OS X Menu Bar
 - [iTerm2](https://github.com/gnachman/iTerm2) - iTerm2 is a terminal emulator for Mac OS X that does amazing things.
 - [Therm](https://github.com/trufae/Therm) - Therm is an iTerm2 fork that aims to have good defaults and minimum features
 - [vienna-rss](https://github.com/ViennaRSS/vienna-rss) - Vienna is a free and open-source RSS/Atom newsreader for macOS.
@@ -3680,6 +3676,7 @@
 
 ## Python 
 
+- [TKperf](https://github.com/thomas-krenn/TKperf) - Performance test tool for SSDs, HDDs and RAID devices
 - [doh-proxy](https://github.com/facebookexperimental/doh-proxy) - A proof of concept DNS-Over-HTTPS proxy implementing https://datatracker.ietf.org/doc/draft-ietf-doh-dns-over-https/
 - [dnsdumpster](https://github.com/nmmapper/dnsdumpster) - A tool to perform DNS reconnaissance on target networks. Among the DNS information got from include subdomains, mx records, web application firewall detection and more fingerprinting and lookups
 - [algo](https://github.com/trailofbits/algo) - Set up a personal VPN in the cloud
@@ -3693,7 +3690,7 @@
 - [gmvault](https://github.com/gaubert/gmvault) - gmail backup software
 - [Paddle](https://github.com/PaddlePaddle/Paddle) - PArallel Distributed Deep LEarning: Machine Learning Framework from Industrial Practice （『飞桨』核心框架，深度学习&机器学习高性能单机、分布式训练和跨平台部署）
 - [PyTorch-StudioGAN](https://github.com/POSTECH-CVLab/PyTorch-StudioGAN) - StudioGAN is a Pytorch library providing implementations of representative Generative Adversarial Networks (GANs) for conditional/unconditional image generation.
-- [PaddleGAN](https://github.com/PaddlePaddle/PaddleGAN) - PaddlePaddle GAN library, including lots of interesting applications like DeepFake First-Order motion transfer, Mai-ha-hi（蚂蚁呀嘿), faceswap wav2lip, picture repair, image editing, photo2cartoon, image style transfer, and so on.
+- [PaddleGAN](https://github.com/PaddlePaddle/PaddleGAN) - PaddlePaddle GAN library, including lots of interesting applications like First-Order motion transfer,  wav2lip, picture repair, image editing, photo2cartoon, image style transfer, and so on.
 - [tccutil](https://github.com/DocSystem/tccutil) - A macOS Permissions manager
 - [khan-dl](https://github.com/rand-net/khan-dl) - Download courses from  khanacademy.org
 - [PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings) - A list of useful payloads and bypass for Web Application Security and Pentest/CTF
@@ -5443,7 +5440,7 @@
 - [docker-compose-ha-consul-vault-ui](https://github.com/samrocketman/docker-compose-ha-consul-vault-ui) - A docker-compose example of HA Consul + Vault + Vault UI
 - [vault-consul-swarm](https://github.com/testdrivenio/vault-consul-swarm) - 
 - [dockerfiles](https://github.com/invoiceninja/dockerfiles) - Docker files for Invoice Ninja
-- [bitbar-plugins](https://github.com/matryer/bitbar-plugins) - Plugin repository for BitBar
+- [xbar-plugins](https://github.com/matryer/xbar-plugins) - Plugin repository for BitBar
 - [prettyping](https://github.com/denilsonsa/prettyping) - `prettyping` is a wrapper around the standard `ping` tool, making the output prettier, more colorful, more compact, and easier to read.
 - [slack_status_updater](https://github.com/mivok/slack_status_updater) - A simple shell script to update your status in slack from the command line
 - [sidecar-alfredworkflow](https://github.com/mikelxc/sidecar-alfredworkflow) - An Alfred Workflow that toggles sidecar function
