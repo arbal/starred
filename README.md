@@ -833,6 +833,8 @@
 
 ## Go 
 
+- [lighthouse](https://github.com/submariner-io/lighthouse) - Controller to facilitate DNS discovery between clusters
+- [routedns](https://github.com/folbricht/routedns) - DNS stub resolver, proxy and router with support for DoT, DoH, DoQ, and DTLS
 - [repo-security-scanner](https://github.com/UKHomeOffice/repo-security-scanner) - CLI tool that finds secrets accidentally committed to a git repo, eg passwords, private keys
 - [caddy2-proxyprotocol](https://github.com/mastercactapus/caddy2-proxyprotocol) - 
 - [caddy-openapi](https://github.com/chukmunnlee/caddy-openapi) - A Caddy module to validate HTTP request and response against a OpenAPI spec (V3) file
@@ -2785,6 +2787,7 @@
 
 ## Jsonnet 
 
+- [kube-prometheus](https://github.com/prometheus-operator/kube-prometheus) - Use Prometheus to monitor Kubernetes and applications running on Kubernetes
 - [kubeflow](https://github.com/kubeflow/kubeflow) - Machine Learning Toolkit for Kubernetes
 - [jsonnet](https://github.com/google/jsonnet) - Jsonnet - The data templating language
 
@@ -2928,6 +2931,7 @@
 
 ## Mustache 
 
+- [helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts
 - [swagger-codegen](https://github.com/swagger-api/swagger-codegen) - swagger-codegen contains a template-driven engine to generate documentation, API clients and server stubs in different languages by parsing your OpenAPI / Swagger definition.
 - [inlets-pro](https://github.com/inlets/inlets-pro) - Secure TCP and HTTP tunnels that work anywhere
 - [helm-charts](https://github.com/influxdata/helm-charts) - Official Helm Chart Repository for InfluxData Applications
@@ -3004,6 +3008,7 @@
 
 ## Others 
 
+- [lens-extensions](https://github.com/lensapp/lens-extensions) - List of Lens Extensions
 - [awesome-stars](https://github.com/arbal/awesome-stars) - A curated list of my GitHub stars!
 - [blockchain-reading-list](https://github.com/reiver/blockchain-reading-list) - A reading list on blockchain and related technologies, targeted at technical people who want a deep understanding of those topics.
 - [sec-tool-list](https://github.com/alphaSeclab/sec-tool-list) - More than 21K security related open source tools, sorted by star count. Both in markdown and json format.
@@ -3681,6 +3686,8 @@
 
 ## Python 
 
+- [torghost](https://github.com/SusmithKrishnan/torghost) - TorGhost is an anonymization script. TorGhost redirects all internet traffic through SOCKS5 tor proxy. DNS requests are also redirected via tor, thus preventing DNSLeak. The scripts also disables unsafe packets exiting the system. Some packets like ping request can compromise your identity.
+- [pgcli](https://github.com/dbcli/pgcli) - Postgres CLI with autocompletion and syntax highlighting
 - [github-dorks](https://github.com/techgaun/github-dorks) - Find leaked secrets via github search
 - [TKperf](https://github.com/thomas-krenn/TKperf) - Performance test tool for SSDs, HDDs and RAID devices
 - [doh-proxy](https://github.com/facebookexperimental/doh-proxy) - A proof of concept DNS-Over-HTTPS proxy implementing https://datatracker.ietf.org/doc/draft-ietf-doh-dns-over-https/
@@ -5023,6 +5030,7 @@
 
 ## Rust 
 
+- [doh-server](https://github.com/jedisct1/doh-server) - Fast, mature, secure DoH server proxy written in Rust (doh-proxy).
 - [regex](https://github.com/rust-lang/regex) - An implementation of regular expressions for Rust. This implementation uses finite automata and guarantees linear time matching on all inputs.
 - [shodan-rust](https://github.com/femiagbabiaka/shodan-rust) - rusty shodan
 - [adblock-rust](https://github.com/brave/adblock-rust) - Brave's Rust-based adblock engine
@@ -5173,6 +5181,10 @@
 
 ## Shell 
 
+- [block-all-google](https://github.com/wesaphzt/block-all-google) - 
+- [lancache-dns](https://github.com/lancachenet/lancache-dns) - DNS Docker service for a lancache.
+- [stubby-docker](https://github.com/MatthewVance/stubby-docker) - Gain the full power of DNS-over-TLS forwarding by combining Stubby with Unbound
+- [dnscrypt-proxy-config](https://github.com/CNMan/dnscrypt-proxy-config) - 
 - [git-secrets](https://github.com/awslabs/git-secrets) - Prevents you from committing secrets and credentials into git repositories
 - [subnodes](https://github.com/chootka/subnodes) - Subnodes is an open source project that configures your Raspberry Pi as a wireless AP, Node.js server, and BATMAN ADV mesh point.
 - [DeepFaceLab_Linux](https://github.com/nagadit/DeepFaceLab_Linux) - DeepFaceLab is the leading software for creating deepfakes.
@@ -5911,6 +5923,7 @@
 
 ## TypeScript 
 
+- [lens-resource-map-extension](https://github.com/nevalla/lens-resource-map-extension) - Lens - The Kubernetes IDE extension that displays Kubernetes resources and their relations as a force graph.
 - [vsflux](https://github.com/influxdata/vsflux) - Flux language extension for VSCode
 - [bobarr](https://github.com/iam4x/bobarr) - 🍿 The all-in-one alternative for Sonarr, Radarr, Jackett... with a VPN and running in docker
 - [formik](https://github.com/formium/formik) - Build forms in React, without the tears 😭
