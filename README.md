@@ -121,6 +121,10 @@
 
 ## C 
 
+- [dnsperf](https://github.com/DNS-OARC/dnsperf) - DNS Performance Testing Tools
+- [onesixtyone](https://github.com/trailofbits/onesixtyone) - Fast SNMP Scanner
+- [Bonjour](https://github.com/olivierlevon/Bonjour) - Yet another unofficial mDNSResponder mirror http://developer.apple.com/bonjour
+- [mdns](https://github.com/mjansson/mdns) - Public domain mDNS/DNS-SD library in C
 - [cosmopolitan](https://github.com/jart/cosmopolitan) - fast portable static native textmode containers
 - [dpdk](https://github.com/DPDK/dpdk) - Data Plane Development Kit
 - [natasha](https://github.com/scaleway/natasha) - Natasha is a fast and scalable, DPDK powered, stateless NAT44 packet processor
@@ -398,6 +402,7 @@
 
 ## C# # 
 
+- [net-mdns](https://github.com/richardschneider/net-mdns) - Simple multicast DNS
 - [grandnode](https://github.com/grandnode/grandnode) - Free and Open Source Ecommerce Shopping Cart solution based on ASP.NET CORE and MongoDB
 - [OpenDirectoryDownloader](https://github.com/KoalaBear84/OpenDirectoryDownloader) - Indexes open directories
 - [tzsp_packetstream_exporter](https://github.com/prometheus-net/tzsp_packetstream_exporter) - Analyze a real-time IPv4 packet stream and export metrics about the data flows
@@ -474,7 +479,7 @@
 
 ## C++ 
 
-- [cosmos](https://github.com/OpenGenus/cosmos) - | Contribute toward Hacktoberfest and enjoy 🌱 | Algorithms that run our universe | Your personal library of every algorithm and data structure code that you will ever encounter | Ask us anything at our forum |
+- [cosmos](https://github.com/OpenGenus/cosmos) - World's largest Contributor driven code dataset | Join our Internship and enjoy 🌱 | Algorithms that run our universe | Your personal library of every algorithm and data structure code that you will ever encounter |
 - [pcl](https://github.com/PointCloudLibrary/pcl) - Point Cloud Library (PCL)
 - [monero](https://github.com/monero-project/monero) - Monero: the secure, private, untraceable cryptocurrency
 - [terminal](https://github.com/microsoft/terminal) - The new Windows Terminal and the original Windows console host, all in the same place!
@@ -664,7 +669,7 @@
 - [asciinema-player](https://github.com/asciinema/asciinema-player) - Web player for terminal session recordings ⏩
 - [riemann](https://github.com/riemann/riemann) - A network event stream processing system, in Clojure.
 - [oz](https://github.com/metasoarous/oz) - Data visualizations in Clojure and ClojureScript using Vega and Vega-lite
-- [athens](https://github.com/athensresearch/athens) - Desktop app links: https://tinyurl.com/athens-mac, https://tinyurl.com/athens-mac-m1, https://tinyurl.com/athens-windows, https://tinyurl.com/athens-linux; paid tiers available through https://opencollective.com/athens; try the demo at https://athensresearch.github.io/athens
+- [athens](https://github.com/athensresearch/athens) - Free self-hosted desktop app: https://github.com/athensresearch/athens/releases; Paid tiers available through https://opencollective.com/athens; Try the demo at https://athensresearch.github.io/athens
 - [yetibot](https://github.com/yetibot/yetibot) - 🤖 Extreme chatops bot for Slack and IRC 🔧 New contributors welcome 🏗
 - [swarmpit](https://github.com/swarmpit/swarmpit) - Lightweight mobile-friendly Docker Swarm management UI
 - [metabase](https://github.com/metabase/metabase) - The simplest, fastest way to get business intelligence and analytics  to everyone in your company :yum:
@@ -840,6 +845,12 @@
 
 ## Go 
 
+- [keto](https://github.com/ory/keto) - Global and consistent permission and authorization server with an easy and granular permission language and sub 10-millisecond latency. Based on Google Zanzibar. Ships gRPC and REST APIs. Written in Go.
+- [dockertest](https://github.com/ory/dockertest) - Write better integration tests! Dockertest helps you boot up ephermal docker images for your Go tests with minimal work.
+- [authboss](https://github.com/volatiletech/authboss) - The boss of http auth.
+- [thola](https://github.com/inexio/thola) - Tool for monitoring and provisioning network devices (mainly using SNMP) - monitoring check plugin
+- [dnssd](https://github.com/brutella/dnssd) - This library implements Multicast DNS (mDNS) and DNS-Based Service Discovery (DNS-SD) for Zero Configuration Networking in Go.
+- [nextdns](https://github.com/nextdns/nextdns) - NextDNS CLI client (DoH Proxy)
 - [dbmate](https://github.com/amacneil/dbmate) - :rocket: A lightweight, framework-agnostic database migration tool.
 - [fx](https://github.com/metrue/fx) - A Function as a Service tool makes a function as a  container-based service in seconds.
 - [go-oauth2-server](https://github.com/RichardKnop/go-oauth2-server) - A standalone, specification-compliant,  OAuth2 server written in Golang.
@@ -1063,7 +1074,7 @@
 - [colly](https://github.com/gocolly/colly) - Elegant Scraper and Crawler Framework for Golang
 - [tview](https://github.com/rivo/tview) - Rich interactive widgets for your terminal UI, written in Go
 - [terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) - Terraform AWS provider
-- [heedy](https://github.com/heedy/heedy) - An Open-Source Platform for Quantified Self & IoT
+- [heedy](https://github.com/heedy/heedy) - An aggregator for personal metrics, and an extensible analysis engine
 - [gleam](https://github.com/chrislusf/gleam) - Fast, efficient, and scalable distributed map/reduce system, DAG execution, in memory or on disk, written in pure Go, runs standalone or distributedly.
 - [protoactor-go](https://github.com/AsynkronIT/protoactor-go) - Proto Actor - Ultra fast distributed actors for Go, C# and Java/Kotlin
 - [netdata-influx](https://github.com/terorie/netdata-influx) - Netdata to Influx exporter + Grafana dashboard template
@@ -2020,6 +2031,7 @@
 
 ## JavaScript 
 
+- [Tdarr](https://github.com/HaveAGitGat/Tdarr) - Tdarr - Distributed transcode automation using FFmpeg/HandBrake + Audio/Video library analytics + video health checking (Windows, macOS, Linux & Docker)
 - [maildev](https://github.com/maildev/maildev) - :mailbox: SMTP Server + Web Interface for viewing and testing emails during development.
 - [budibase](https://github.com/Budibase/budibase) - Budibase is a free and open-source development platform that helps you build internal apps on your own infrastructure, in minutes, not months  🚀
 - [socketcluster](https://github.com/SocketCluster/socketcluster) - Highly scalable realtime framework
@@ -3565,6 +3577,7 @@
 
 ## PHP 
 
+- [dns](https://github.com/spatie/dns) - Retrieve DNS records
 - [easyengine](https://github.com/EasyEngine/easyengine) - Command-line control panel for Nginx Server to manage WordPress sites running on Nginx, PHP, MySQL, and Let's Encrypt
 - [firefly-iii](https://github.com/firefly-iii/firefly-iii) - Firefly III: a personal finances manager
 - [koel](https://github.com/koel/koel) - 🐦 A personal music streaming server that works.
@@ -3676,6 +3689,7 @@
 
 ## Perl 
 
+- [fink](https://github.com/fink/fink) - The fink package manager
 - [DataURLToolkit](https://github.com/sveinbjornt/DataURLToolkit) - Various tools for working with Data URLs, incl. web application (http://dataurl.net), Mac OS X GUI app, command line tool, Perl modules and Apache module.
 - [docker-images](https://github.com/dreamcat4/docker-images) - Dreamcat4's Docker Images (Trusted Builds)
 - [ack3](https://github.com/beyondgrep/ack3) - ack is a grep-like search tool optimized for source code.
@@ -3743,6 +3757,10 @@
 
 ## Python 
 
+- [storagefancontrol](https://github.com/louwrentius/storagefancontrol) - Sets chassis fan speed based on highest disk temperature
+- [azure-cli](https://github.com/Azure/azure-cli) - Azure Command-Line Interface
+- [trapperkeeper](https://github.com/dropbox/trapperkeeper) - A suite of tools for ingesting and displaying SNMP traps.
+- [WebMap](https://github.com/SabyasachiRana/WebMap) - WebMap-Nmap Web Dashboard and Reporting
 - [kitty](https://github.com/kovidgoyal/kitty) - Cross-platform, fast, feature-rich, GPU based terminal
 - [Gerapy](https://github.com/Gerapy/Gerapy) - Distributed Crawler Management Framework Based on Scrapy, Scrapyd, Django and Vue.js
 - [jina](https://github.com/jina-ai/jina) - An easier way to build neural search on the cloud
@@ -4928,6 +4946,7 @@
 
 ## R 
 
+- [askpass](https://github.com/jeroen/askpass) - Safe Password Entry for R, Git, and SSH
 - [rorcid](https://github.com/ropensci/rorcid) - A programmatic interface the Orcid.org API
 - [drake](https://github.com/ropensci/drake) - An R-focused pipeline toolkit for reproducibility and high-performance computing
 - [rmarkdown](https://github.com/rstudio/rmarkdown) - Dynamic Documents for R
@@ -4980,6 +4999,7 @@
 
 ## Ruby 
 
+- [homebrew-tap](https://github.com/nextdns/homebrew-tap) - 
 - [duckrails](https://github.com/iridakos/duckrails) - Development tool to mock API endpoints quickly and easily (docker image available)
 - [SiriProxy](https://github.com/plamoni/SiriProxy) - A (tampering) proxy server for Apple's Siri
 - [notes-exporter](https://github.com/KrauseFx/notes-exporter) - Because GPDR exists for a reason, oh hi Apple
@@ -5102,6 +5122,7 @@
 
 ## Rust 
 
+- [astro-dnssd](https://github.com/AstroHQ/astro-dnssd) - Simple Rust wrapper around DNS-SD
 - [ballista](https://github.com/ballista-compute/ballista) - Distributed compute platform implemented in Rust, and powered by Apache Arrow.
 - [juniper](https://github.com/graphql-rust/juniper) - GraphQL server library for Rust
 - [gitui](https://github.com/extrawurst/gitui) - Blazing 💥 fast terminal-ui for git written in rust 🦀
@@ -5166,7 +5187,7 @@
 - [tensorman](https://github.com/pop-os/tensorman) - Utility for easy management of Tensorflow containers
 - [refine-io](https://github.com/Eonm/refine-io) - Manage OpenRefine projects
 - [just](https://github.com/casey/just) - 🤖 Just a command runner
-- [vector](https://github.com/timberio/vector) - Ultra performant, highly reliable observability data pipeline.
+- [vector](https://github.com/timberio/vector) - High-performance, high-reliability observability data pipeline.
 - [vigil](https://github.com/valeriansaliou/vigil) - 🚦 Microservices Status Page. Monitors a distributed infrastructure and sends alerts (Slack, SMS, etc.).
 - [as-tree](https://github.com/jez/as-tree) - Print a list of paths as a tree of paths 🌳
 - [cargo](https://github.com/rust-lang/cargo) - The Rust package manager
@@ -5258,6 +5279,8 @@
 
 ## Shell 
 
+- [synology-monitoring](https://github.com/kernelkaribou/synology-monitoring) - Simple script for capturing SNMP stats to influxdb and viewing Synology NAS health in Grafana
+- [yoda](https://github.com/Muvon/yoda) - Simple tool to dockerize and manage deployment of your project
 - [traefik-private-plugins](https://github.com/PrivPlugMatt/traefik-private-plugins) - Automatic patch for Traefik supporting private plugins
 - [docker-swarm-keepalived](https://github.com/LolHens/docker-swarm-keepalived) - Operator for keepalived on docker swarm
 - [docker](https://github.com/nextcloud/docker) - ⛴ Docker image of Nextcloud
@@ -5736,7 +5759,7 @@
 - [pi-gen](https://github.com/adampie/pi-gen) - Automating the generation of Raspbian images for the Raspberry Pi using Ansible
 - [pi-gen](https://github.com/home-assistant/pi-gen) - Tool used to create the Hassbian images
 - [pi-gen](https://github.com/RPi-Distro/pi-gen) - Tool used to create the raspberrypi.org Raspbian images
-- [pisdr-image](https://github.com/luigifcruz/pisdr-image) - 🥧 The SDR Linux Distro for the Raspberry Pi. Compatible out of the box with multiple SDR.
+- [pisdr-image](https://github.com/luigifcruz/pisdr-image) - 🥧 The SDR Linux Distro for the Raspberry Pi and other SBC. Compatible out of the box with multiple SDR.
 - [unifi-linux-utils](https://github.com/stevejenkins/unifi-linux-utils) - Helpful Linux / Unix scripts for admins of Ubiquiti (UBNT) UniFi wireless products
 - [gentoo-on-rpi-64bit](https://github.com/sakaki-/gentoo-on-rpi-64bit) - Bootable 64-bit Gentoo image for the Raspberry Pi4B,  3B & 3B+, with Linux 5.4, OpenRC, Xfce4, VC4/V3D, camera and h/w codec support, weekly-autobuild binhost
 - [PXESetupWizard](https://github.com/piffall/PXESetupWizard) - PXE Setup Wizard. Netboot Debian, Ubuntu, System Rescue CD, FreeDOS and more.
@@ -5916,6 +5939,7 @@
 
 ## Swift 
 
+- [ssh-askpass-mac](https://github.com/lukas-zronek/ssh-askpass-mac) - A macOS front-end of ssh-askpass with keychain support
 - [PopcornTimeTV](https://github.com/PopcornTimeTV/PopcornTimeTV) - Popcorn Time for Apple TV 4, iPhone and iPad
 - [DevUtils-app](https://github.com/DevUtilsApp/DevUtils-app) - Offline Toolbox for Developers
 - [uti](https://github.com/alexisakers/uti) - CLI Tool for Interacting with File Type Identifiers on Mac
@@ -6009,6 +6033,7 @@
 
 ## TypeScript 
 
+- [mdns-tunneller](https://github.com/toxuin/mdns-tunneller) - Tunnels two (or more) mDNS domains together
 - [wayne](https://github.com/Qihoo360/wayne) - Kubernetes multi-cluster management and publishing platform
 - [vite](https://github.com/vitejs/vite) - Next generation frontend tooling. It's fast!
 - [G6](https://github.com/antvis/G6) - ♾ A Graph Visualization Framework in JavaScript
@@ -6046,7 +6071,7 @@
 - [mapper](https://github.com/geo6/mapper) - Display (and query) geographical data (WMS, WMTS, GeoJSON, KML, GPX, CSV).
 - [syntax-highlighter](https://github.com/EvgeniyPeshkov/syntax-highlighter) - Syntax Highlighter extension for Visual Studio Code (VSCode). Based on Tree-sitter.
 - [OctoDash](https://github.com/UnchartedBull/OctoDash) - OctoDash is a simple, but beautiful dashboard for OctoPrint.
-- [gmail-desktop](https://github.com/timche/gmail-desktop) - :postbox: Nifty Gmail desktop app
+- [gmail-desktop](https://github.com/timche/gmail-desktop) - :postbox: Nifty Gmail desktop app for macOS, Linux & Windows
 - [mailgo](https://github.com/manzinello/mailgo) - 💌 mailgo, a new concept of mailto and tel links
 - [refined-github](https://github.com/sindresorhus/refined-github) - :octocat: Browser extension that simplifies the GitHub interface and adds useful features
 - [Authenticator](https://github.com/Authenticator-Extension/Authenticator) - Authenticator generates 2-Step Verification codes in your browser.
