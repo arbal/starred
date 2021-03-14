@@ -479,6 +479,8 @@
 
 ## C++ 
 
+- [bistro](https://github.com/facebook/bistro) - Bistro is a flexible distributed scheduler, a high-performance framework supporting multiple paradigms while retaining ease of configuration, management, and monitoring.
+- [kurento-media-server](https://github.com/Kurento/kurento-media-server) - Media Server responsible for media transmission, processing, loading and recording
 - [cosmos](https://github.com/OpenGenus/cosmos) - World's largest Contributor driven code dataset | Join our Internship and enjoy 🌱 | Algorithms that run our universe | Your personal library of every algorithm and data structure code that you will ever encounter |
 - [pcl](https://github.com/PointCloudLibrary/pcl) - Point Cloud Library (PCL)
 - [monero](https://github.com/monero-project/monero) - Monero: the secure, private, untraceable cryptocurrency
@@ -845,6 +847,7 @@
 
 ## Go 
 
+- [kala](https://github.com/ajvb/kala) - Modern Job Scheduler
 - [keto](https://github.com/ory/keto) - Global and consistent permission and authorization server with an easy and granular permission language and sub 10-millisecond latency. Based on Google Zanzibar. Ships gRPC and REST APIs. Written in Go.
 - [dockertest](https://github.com/ory/dockertest) - Write better integration tests! Dockertest helps you boot up ephermal docker images for your Go tests with minimal work.
 - [authboss](https://github.com/volatiletech/authboss) - The boss of http auth.
@@ -1072,7 +1075,7 @@
 - [gron](https://github.com/roylee0704/gron) - gron, Cron Jobs in Go.
 - [asynq](https://github.com/hibiken/asynq) - Asynq: simple, reliable, and efficient distributed task queue in Go
 - [colly](https://github.com/gocolly/colly) - Elegant Scraper and Crawler Framework for Golang
-- [tview](https://github.com/rivo/tview) - Rich interactive widgets for your terminal UI, written in Go
+- [tview](https://github.com/rivo/tview) - Terminal UI library with rich, interactive widgets — written in Golang
 - [terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) - Terraform AWS provider
 - [heedy](https://github.com/heedy/heedy) - An aggregator for personal metrics, and an extensible analysis engine
 - [gleam](https://github.com/chrislusf/gleam) - Fast, efficient, and scalable distributed map/reduce system, DAG execution, in memory or on disk, written in pure Go, runs standalone or distributedly.
@@ -2031,6 +2034,7 @@
 
 ## JavaScript 
 
+- [QB](https://github.com/QuickBox/QB) - QuickBox is much more than a ‘seedbox installer script’, it is a simplistic approach to achieving easy seedbox and services management from a beautifully designed dashboard. Allowing users the ability to interact with their seedbox and server on a professional grade level.
 - [Tdarr](https://github.com/HaveAGitGat/Tdarr) - Tdarr - Distributed transcode automation using FFmpeg/HandBrake + Audio/Video library analytics + video health checking (Windows, macOS, Linux & Docker)
 - [maildev](https://github.com/maildev/maildev) - :mailbox: SMTP Server + Web Interface for viewing and testing emails during development.
 - [budibase](https://github.com/Budibase/budibase) - Budibase is a free and open-source development platform that helps you build internal apps on your own infrastructure, in minutes, not months  🚀
@@ -2627,7 +2631,6 @@
 - [zotero-scihub](https://github.com/ethanwillis/zotero-scihub) - A plugin that will automatically download PDFs of zotero items from sci-hub
 - [ip-kvm-interface](https://github.com/SterlingButters/ip-kvm-interface) - DIY IP-KVM for Remote Desktop Access
 - [party-pi](https://github.com/justinshenk/party-pi) - Computer vision emotion :stuck_out_tongue_winking_eye: detection game in Flask with TensorFlow backend.
-- [Kap](https://github.com/wulkano/Kap) - An open-source screen recorder built with web technology
 - [ha-dockermon](https://github.com/philhawthorne/ha-dockermon) - A NodeJS RESTful API which can be used with Home Assistant to report the state of Docker Containers
 - [browsh](https://github.com/browsh-org/browsh) - A fully-modern text-based browser, rendering to TTY and browsers
 - [sift-cli](https://github.com/teamdfir/sift-cli) - CLI tool to manage a SIFT Install
@@ -3015,6 +3018,7 @@
 
 ## OCaml 
 
+- [flow](https://github.com/facebook/flow) - Adds static typing to JavaScript to improve developer productivity and code quality.
 - [Batsh](https://github.com/batsh-dev-team/Batsh) - A language that compiles to Bash and Windows Batch
 - [comby](https://github.com/comby-tools/comby) - A tool for structural code search and replace that supports ~every language.
 - [sure-deploy](https://github.com/issuu/sure-deploy) - What `docker stack deploy` should actually have been
@@ -3022,6 +3026,8 @@
 
 ## Objective-C 
 
+- [Hosts.prefpane](https://github.com/specialunderwear/Hosts.prefpane) - a Cocoa GUI for /etc/hosts
+- [vftool](https://github.com/evansm7/vftool) - A simple macOS Virtualisation.framework wrapper
 - [tcping](https://github.com/paradiseduo/tcping) - tcping command, written with Objective-C, on macOS,tcping for mac,ping over a tcp connection
 - [QLColorCode](https://github.com/anthonygelibert/QLColorCode) - QuickLook plugin for source code with syntax highlighting.
 - [csshx](https://github.com/brockgr/csshx) - Automatically exported from code.google.com/p/csshx
@@ -3074,6 +3080,7 @@
 
 ## Others 
 
+- [awesome-mesos](https://github.com/dharmeshkakadia/awesome-mesos) - Everything about Apache Mesos
 - [openebs](https://github.com/openebs/openebs) - Leading Open Source Container Attached Storage, built using Cloud Native Architecture, simplifies running Stateful Applications on Kubernetes.
 - [awesome-xmpp](https://github.com/bluszcz/awesome-xmpp) - A curated list of delightful XMPP related resources.
 - [lens-extensions](https://github.com/lensapp/lens-extensions) - List of Lens Extensions
@@ -3378,6 +3385,7 @@
 - [iOSShortcuts](https://github.com/heliomass/iOSShortcuts) - A collection of shortcuts for the Shortcuts app.
 - [awesome-cloudflare-workers](https://github.com/tomByrer/awesome-cloudflare-workers) - 😎 Awesome Cloudflare Workers
 - [awesome-resty](https://github.com/bungle/awesome-resty) - A List of Quality OpenResty Libraries, and Resources.
+- [osxfuse](https://github.com/osxfuse/osxfuse) - FUSE extends macOS by adding support for user space file systems
 - [Ansible-Proxmox-Automation](https://github.com/Dilden/Ansible-Proxmox-Automation) - For use with automating my homelab
 - [lxc-guac-setup](https://github.com/helperkeys/lxc-guac-setup) - Proxmox - Debian 10 LXC Apache Guacamole
 - [sdscom-xml](https://github.com/esdscom/sdscom-xml) - Schema definition and other specification documents of SDScom, the standard for exlectronic exchange of Safety Data Sheets across Europe and now USA and Canada (other regions will follow). Please read the wiki for more info. All work is licensed under CC BY-ND 4.0 (https://creativecommons.org/licenses/by-nd/4.0/legalcode)
@@ -3577,6 +3585,7 @@
 
 ## PHP 
 
+- [vnstat-dashboard](https://github.com/alexandermarston/vnstat-dashboard) - A responsive web UI to view network traffic statistics provided by vnStat (with support for version 2.x)
 - [dns](https://github.com/spatie/dns) - Retrieve DNS records
 - [easyengine](https://github.com/EasyEngine/easyengine) - Command-line control panel for Nginx Server to manage WordPress sites running on Nginx, PHP, MySQL, and Let's Encrypt
 - [firefly-iii](https://github.com/firefly-iii/firefly-iii) - Firefly III: a personal finances manager
@@ -3757,6 +3766,7 @@
 
 ## Python 
 
+- [prophet](https://github.com/facebook/prophet) - Tool for producing high quality forecasts for time series data that has multiple seasonality with linear or non-linear growth.
 - [storagefancontrol](https://github.com/louwrentius/storagefancontrol) - Sets chassis fan speed based on highest disk temperature
 - [azure-cli](https://github.com/Azure/azure-cli) - Azure Command-Line Interface
 - [trapperkeeper](https://github.com/dropbox/trapperkeeper) - A suite of tools for ingesting and displaying SNMP traps.
@@ -4229,7 +4239,7 @@
 - [youtube-dl-gui](https://github.com/MrS0m30n3/youtube-dl-gui) - A cross platform front-end GUI of the popular youtube-dl written in wxPython.
 - [playx](https://github.com/NISH1001/playx) - Search and play any song from terminal
 - [scrapy](https://github.com/scrapy/scrapy) - Scrapy, a fast high-level web crawling & scraping framework for Python.
-- [xrit-rx](https://github.com/sam210723/xrit-rx) - 📡 Receive weather images from geostationary meteorological satellite GEO-KOMPSAT-2A (128.2˚E).
+- [xrit-rx](https://github.com/sam210723/xrit-rx) - 📡 Receive images from weather satellite GEO-KOMPSAT-2A (GK-2A).
 - [googlewifi-api](https://github.com/djtimca/googlewifi-api) - PyPi wrapper for Google WiFi Services
 - [hagooglewifi](https://github.com/djtimca/hagooglewifi) - Home Assistant integration for Google Wifi systems.
 - [kerberossdr](https://github.com/ckoval7/kerberossdr) - KerberosSDR Demo software for direction finding and passive radar
@@ -4973,6 +4983,7 @@
 
 ## Rascal 
 
+- [mikrotik-config](https://github.com/Lennuj420/mikrotik-config) - My mikrotik configuration files
 - [mikrotik_maxslug](https://github.com/maxslug/mikrotik_maxslug) - Mikrotik configuration files for a moderately complex home network with managed access points, FTTH with authentication, multiple ISPs with failover, secure DNS, and VLANs.
 - [vrrp_with_sync_mikrotik](https://github.com/elmaxid/vrrp_with_sync_mikrotik) - Script for VRRP with sync config for MikroTik RouterOS
 - [ROS_Scripts](https://github.com/Lillecarl/ROS_Scripts) - Scripts for RouterOS (MikroTik devices)
@@ -4999,6 +5010,7 @@
 
 ## Ruby 
 
+- [sidekiq-cron](https://github.com/ondrejbartas/sidekiq-cron) - Scheduler / Cron for Sidekiq jobs
 - [homebrew-tap](https://github.com/nextdns/homebrew-tap) - 
 - [duckrails](https://github.com/iridakos/duckrails) - Development tool to mock API endpoints quickly and easily (docker image available)
 - [SiriProxy](https://github.com/plamoni/SiriProxy) - A (tampering) proxy server for Apple's Siri
@@ -5279,6 +5291,7 @@
 
 ## Shell 
 
+- [traefikv2apps](https://github.com/doob187/traefikv2apps) - TreafikV2 Apps with Authelia over Cloudflare
 - [synology-monitoring](https://github.com/kernelkaribou/synology-monitoring) - Simple script for capturing SNMP stats to influxdb and viewing Synology NAS health in Grafana
 - [yoda](https://github.com/Muvon/yoda) - Simple tool to dockerize and manage deployment of your project
 - [traefik-private-plugins](https://github.com/PrivPlugMatt/traefik-private-plugins) - Automatic patch for Traefik supporting private plugins
@@ -5657,7 +5670,7 @@
 - [vps-powered-by-docker](https://github.com/julianxhokaxhiu/vps-powered-by-docker) - Arch Linux setup script to obtain a full VPS with Automatic Reverse Proxy (and more) without pain
 - [docker-powerdns](https://github.com/julianxhokaxhiu/docker-powerdns) - PowerDNS + Recursor + Admin GUI + Adblock in one single Docker
 - [docker-pdns](https://github.com/pschiffe/docker-pdns) - Docker images for PowerDNS
-- [DEB](https://github.com/JOduMonT/DEB) - Notes & Bots for Debian, Ubuntu and their derivatives.
+- [oldDEB](https://github.com/JOduMonT/oldDEB) - WARNING OLD Notes & Bots repo the NEW one is --&gt; https://github.com/JOduMonT/DEB
 - [docker-swarm-configure-keepalived](https://github.com/docker-how-to/docker-swarm-configure-keepalived) - Configure keepalived floating ip for docker swarm
 - [searx-docker](https://github.com/searx/searx-docker) - Create a searx instance using Docker
 - [Docker-CODE](https://github.com/CollaboraOnline/Docker-CODE) - Dockerfile and scripts to generate CODE Docker image
@@ -5705,7 +5718,6 @@
 - [adsbexchange-stats](https://github.com/adsbxchange/adsbexchange-stats) - ADSBexchange.com Statistics Beta
 - [docker-adsbexchange](https://github.com/mikenye/docker-adsbexchange) - Feeds ADS-B data into adsbexchange.com. Designed to work with mikenye/readsb-protobuf.
 - [packer-proxmox-templates](https://github.com/chriswayg/packer-proxmox-templates) - :package: Packer templates for building Proxmox KVM images from ISO
-- [osxfuse](https://github.com/osxfuse/osxfuse) - FUSE extends macOS by adding support for user space file systems
 - [AlfredDig](https://github.com/phallstrom/AlfredDig) - A workflow for Alfred to perform DNS lookups using dig and optionally copy a specific result to the clipboard.
 - [letsencrypt-routeros](https://github.com/gitpel/letsencrypt-routeros) - Let's Encrypt certificates for RouterOS / Mikrotik
 - [n7nix](https://github.com/nwdigitalradio/n7nix) - Config scripts, systemd files & other miscellaneous files
@@ -5939,6 +5951,8 @@
 
 ## Swift 
 
+- [VFHost](https://github.com/JackSteele/VFHost) - GUI for Virtualization.framework, including installer for Ubuntu 20.04 on Apple Silicon and Intel Macs.
+- [SimpleVM](https://github.com/KhaosT/SimpleVM) - Sample code for Virtualization framework
 - [ssh-askpass-mac](https://github.com/lukas-zronek/ssh-askpass-mac) - A macOS front-end of ssh-askpass with keychain support
 - [PopcornTimeTV](https://github.com/PopcornTimeTV/PopcornTimeTV) - Popcorn Time for Apple TV 4, iPhone and iPad
 - [DevUtils-app](https://github.com/DevUtilsApp/DevUtils-app) - Offline Toolbox for Developers
@@ -5986,7 +6000,7 @@
 - [Connectivity](https://github.com/rwbutler/Connectivity) - 🌐 Makes Internet connectivity detection more robust by detecting Wi-Fi networks without Internet access.
 - [contacts-cli](https://github.com/keith/contacts-cli) - Query macOS contacts from the command line
 - [alfred-messages](https://github.com/briangonzalez/alfred-messages) - Message your Apple Contacts via Alfred using Messages
-- [iOS](https://github.com/home-assistant/iOS) - :iphone: Home Assistant Companion for iOS
+- [iOS](https://github.com/home-assistant/iOS) - :iphone: Home Assistant for Apple platforms
 - [Maccy](https://github.com/p0deje/Maccy) - Lightweight clipboard manager for macOS
 - [BluetoothConnector](https://github.com/lapfelix/BluetoothConnector) - Simple macOS CLI to connect/disconnect a Bluetooth device. Useful for AirPods or other Bluetooth headphones.
 - [AlfredSwitchWindows](https://github.com/mandrigin/AlfredSwitchWindows) - An application for using in Alfred workflow to enumerate and switch between windows on OSX.
@@ -6150,7 +6164,7 @@
 - [vscode-extension-samples](https://github.com/microsoft/vscode-extension-samples) - Sample code illustrating the VS Code extension API.
 - [azure-speed-test](https://github.com/blrchen/azure-speed-test) - Azure speed test tool. Test your network latency, download and upload speed to Azure datacenters around the world.
 - [grafana-prometheus-alertmanager-datasource](https://github.com/camptocamp/grafana-prometheus-alertmanager-datasource) - 
-- [traceroute-map-panel](https://github.com/Gowee/traceroute-map-panel) - 📍🗺️ Visualize traceroute hops on a map in a Grafana panel
+- [traceroute-map-panel](https://github.com/Gowee/traceroute-map-panel) - 📍🗺️ Visualize traceroute paths on a map in a Grafana panel
 - [autogit](https://github.com/fabiospampinato/autogit) - Define commands, using plugins, to execute across all your repositories.
 - [homebridge-plugin-template](https://github.com/homebridge/homebridge-plugin-template) - A template you can use to create your own Homebridge plugins.
 - [homebridge-apple-tv-remote](https://github.com/lukasroegner/homebridge-apple-tv-remote) - Plugin for controlling Apple TVs in homebridge.
@@ -6209,6 +6223,7 @@
 - [btt](https://github.com/Worie/btt) - Low level MacOS management in JavaScript via BetterTouchTool
 - [node-appletv](https://github.com/evandcoleman/node-appletv) - A node module for interacting with an Apple TV (4th-generation or later) over the Media Remote Protocol.
 - [mwoffliner](https://github.com/openzim/mwoffliner) - Scrape any online Mediawiki motorised wiki (like Wikipedia) to your local filesystem
+- [Kap](https://github.com/wulkano/Kap) - An open-source screen recorder built with web technology
 - [verdaccio](https://github.com/verdaccio/verdaccio) - 📦🔐A lightweight private proxy registry build in Node.js
 - [memfs](https://github.com/streamich/memfs) - In-memory filesystem with Node's API
 - [vscode-terraform](https://github.com/hashicorp/vscode-terraform) - A Visual Studio Code extension for Hashicorp Terraform
