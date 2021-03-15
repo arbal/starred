@@ -715,6 +715,7 @@
 
 ## Dockerfile 
 
+- [docker-sonarr](https://github.com/linuxserver/docker-sonarr) - 
 - [AndroidSDK](https://github.com/thyrlian/AndroidSDK) - 🐳 Full-fledged Android SDK Docker Image
 - [docker-dnsmasq](https://github.com/andyshinn/docker-dnsmasq) - My dnsmasq brings all the boys to the yard, and they're like, it's smaller than yours!
 - [tor-socks-proxy](https://github.com/PeterDaveHello/tor-socks-proxy) - 🐳 Tiny Docker(🤏 10MB) image as 🧅 Tor SOCKS5 proxy 🛡
@@ -892,7 +893,7 @@
 - [speedtest-cli](https://github.com/librespeed/speedtest-cli) - Command line client for LibreSpeed
 - [glauth](https://github.com/glauth/glauth) - A lightweight LDAP server for development, home use, or CI
 - [bit](https://github.com/chriswalz/bit) - Bit is a modern Git CLI
-- [differential-privacy](https://github.com/google/differential-privacy) - Google's differential privacy library.
+- [differential-privacy](https://github.com/google/differential-privacy) - Google's differential privacy libraries.
 - [webify](https://github.com/beefsack/webify) - Turn shell commands into web services
 - [acmeproxy](https://github.com/mdbraber/acmeproxy) - Proxy server for ACME DNS challenges written in Go
 - [go-shodan](https://github.com/ns3777k/go-shodan) - Shodan API client
@@ -3762,10 +3763,12 @@
 
 ## PureBasic 
 
-- [neuralet-models](https://github.com/neuralet/neuralet-models) - Neuralet edge deep learning models library. Neuralet is an open-source platform for edge deep learning models on GPU, TPU, and more.
+- [models](https://github.com/neuralet/models) - Neuralet edge deep learning models library. Neuralet is an open-source platform for edge deep learning models on GPU, TPU, and more.
 
 ## Python 
 
+- [Proxmox-Encrypted-Remote-Backup](https://github.com/farthinder/Proxmox-Encrypted-Remote-Backup) - Encrypt and upload Proxmox VM backups to rclone remotes
+- [home-assistant-arpscan_tracker](https://github.com/cyberjunky/home-assistant-arpscan_tracker) - This component tracks devices using the arp-scan liinux command, it's very fast, and reasonably accurate.
 - [prophet](https://github.com/facebook/prophet) - Tool for producing high quality forecasts for time series data that has multiple seasonality with linear or non-linear growth.
 - [storagefancontrol](https://github.com/louwrentius/storagefancontrol) - Sets chassis fan speed based on highest disk temperature
 - [azure-cli](https://github.com/Azure/azure-cli) - Azure Command-Line Interface
@@ -3829,7 +3832,7 @@
 - [golem](https://github.com/golemhq/golem) - A complete test automation tool
 - [taurus](https://github.com/Blazemeter/taurus) - Automation-friendly framework for Continuous Testing by
 - [requestium](https://github.com/tryolabs/requestium) - Integration layer between Requests and Selenium for automation of web actions.
-- [SeleniumBase](https://github.com/seleniumbase/SeleniumBase) - ✅ 📊 A complete framework for Web-UI testing. 💠 Fast, easy, and reliable. (Python/pytest/Selenium)
+- [SeleniumBase](https://github.com/seleniumbase/SeleniumBase) - ✅ 📊 A complete framework for fast, easy, & reliable web testing. (Python/pytest/Selenium) 🚀
 - [vps-comparison](https://github.com/joedicastro/vps-comparison) - A comparison between some VPS providers. It uses Ansible to perform a series of automated benchmark tests over the VPS servers that you specify. It allows the reproducibility of those tests by anyone that wanted to compare these results to their own. All the tests results are available in order to provide independence and transparency.
 - [tribler](https://github.com/Tribler/tribler) - Privacy enhanced BitTorrent client with P2P content discovery
 - [ethereum-etl](https://github.com/blockchain-etl/ethereum-etl) - Python scripts for ETL (extract, transform and load) jobs for Ethereum blocks, transactions, ERC20 / ERC721 tokens, transfers, receipts, logs, contracts, internal transactions. Data is available in Google BigQuery https://goo.gl/oY5BCQ
@@ -5010,6 +5013,7 @@
 
 ## Ruby 
 
+- [securitytrails](https://github.com/ninoseki/securitytrails) - SecurityTrails API wrapper for Ruby
 - [sidekiq-cron](https://github.com/ondrejbartas/sidekiq-cron) - Scheduler / Cron for Sidekiq jobs
 - [homebrew-tap](https://github.com/nextdns/homebrew-tap) - 
 - [duckrails](https://github.com/iridakos/duckrails) - Development tool to mock API endpoints quickly and easily (docker image available)
@@ -5951,6 +5955,7 @@
 
 ## Swift 
 
+- [rcloneosx](https://github.com/rsyncOSX/rcloneosx) - A macOS GUI for rclone
 - [VFHost](https://github.com/JackSteele/VFHost) - GUI for Virtualization.framework, including installer for Ubuntu 20.04 on Apple Silicon and Intel Macs.
 - [SimpleVM](https://github.com/KhaosT/SimpleVM) - Sample code for Virtualization framework
 - [ssh-askpass-mac](https://github.com/lukas-zronek/ssh-askpass-mac) - A macOS front-end of ssh-askpass with keychain support
@@ -6299,7 +6304,7 @@
 - [elasticsearch-comrade](https://github.com/moshe/elasticsearch-comrade) - Elasticsearch admin panel built for ops and monitoring
 - [NATS-WebUI](https://github.com/sphqxe/NATS-WebUI) - A WebUI for NATS Server
 - [BroadlinkIRTools](https://github.com/keitetran/BroadlinkIRTools) - Broadlink learn command helper.
-- [hoppscotch](https://github.com/hoppscotch/hoppscotch) - 👽 A free, fast and beautiful API request builder used by 150k+ developers. https://hoppscotch.io
+- [hoppscotch](https://github.com/hoppscotch/hoppscotch) - 👽 Open source API development ecosystem used by 150k+ developers. https://hoppscotch.io
 - [feathers-plus-admin](https://github.com/bsa-git/feathers-plus-admin) - Project feathers-plus-admin
 
 ## XSLT 
