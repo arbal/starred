@@ -121,6 +121,9 @@
 
 ## C 
 
+- [gmt](https://github.com/GenericMappingTools/gmt) - The Generic Mapping Tools
+- [h3](https://github.com/uber/h3) - Hexagonal hierarchical geospatial indexing system
+- [MapServer](https://github.com/MapServer/MapServer) - Source code of the MapServer project.  Please submit pull requests to the 'main' branch.
 - [dnsperf](https://github.com/DNS-OARC/dnsperf) - DNS Performance Testing Tools
 - [onesixtyone](https://github.com/trailofbits/onesixtyone) - Fast SNMP Scanner
 - [Bonjour](https://github.com/olivierlevon/Bonjour) - Yet another unofficial mDNSResponder mirror http://developer.apple.com/bonjour
@@ -479,6 +482,9 @@
 
 ## C++ 
 
+- [flameshot](https://github.com/flameshot-org/flameshot) - Powerful yet simple to use screenshot software :desktop_computer: :camera_flash:
+- [node-gdal](https://github.com/naturalatlas/node-gdal) - Node.js bindings for GDAL (Geospatial Data Abstraction Library)
+- [BackgroundMusic](https://github.com/kyleneideck/BackgroundMusic) - Background Music, a macOS audio utility: automatically pause your music, set individual apps' volumes and record system audio.
 - [bistro](https://github.com/facebook/bistro) - Bistro is a flexible distributed scheduler, a high-performance framework supporting multiple paradigms while retaining ease of configuration, management, and monitoring.
 - [kurento-media-server](https://github.com/Kurento/kurento-media-server) - Media Server responsible for media transmission, processing, loading and recording
 - [cosmos](https://github.com/OpenGenus/cosmos) - World's largest Contributor driven code dataset | Join our Internship and enjoy 🌱 | Algorithms that run our universe | Your personal library of every algorithm and data structure code that you will ever encounter |
@@ -645,6 +651,7 @@
 
 ## CSS 
 
+- [maps](https://github.com/datameet/maps) - Repository for all spatial data.
 - [LinkFree](https://github.com/MichaelBarney/LinkFree) - A free and open source alternative to LinkTree
 - [traceroute_history](https://github.com/deajan/traceroute_history) - Keep traceroute histroy, make diffs. Use as standalone / smokeping companion
 - [AWSConsoleRecorder](https://github.com/iann0036/AWSConsoleRecorder) - Records actions made in the AWS Management Console and outputs the equivalent CLI/SDK commands and CloudFormation/Terraform templates.
@@ -848,6 +855,10 @@
 
 ## Go 
 
+- [goth](https://github.com/markbates/goth) - Package goth provides a simple, clean, and idiomatic way to write authentication packages for Go web applications.
+- [oauth2](https://github.com/golang/oauth2) - Go OAuth2
+- [geoserver](https://github.com/hishamkaram/geoserver) - geoserver is a Go library for manipulating a GeoServer instance via the GeoServer REST API.
+- [go-geom](https://github.com/twpayne/go-geom) - Package geom implements efficient geometry types for geospatial applications.
 - [kala](https://github.com/ajvb/kala) - Modern Job Scheduler
 - [keto](https://github.com/ory/keto) - Global and consistent permission and authorization server with an easy and granular permission language and sub 10-millisecond latency. Based on Google Zanzibar. Ships gRPC and REST APIs. Written in Go.
 - [dockertest](https://github.com/ory/dockertest) - Write better integration tests! Dockertest helps you boot up ephermal docker images for your Go tests with minimal work.
@@ -1930,6 +1941,14 @@
 
 ## Java 
 
+- [keycloak-provider](https://github.com/privacyidea/keycloak-provider) - :lock: OTP Two Factor Authentication Provider for Keycloak to run with privacyIDEA
+- [georchestra](https://github.com/georchestra/georchestra) - This is the main geOrchestra Spatial Data Infrastructure repository, which hosts the source code.
+- [geoserver](https://github.com/geoserver/geoserver) - Official GeoServer repository
+- [opengxt](https://github.com/mangosystem/opengxt) - Spatial analysis tools for Geotools, Geoserver WPS, uDig Statistics Toolbox
+- [geoserver-cloud](https://github.com/geoserver/geoserver-cloud) - Cloud Native GeoServer is GeoServer ready to use in the cloud through dockerized microservices.
+- [WorldWindJava](https://github.com/NASAWorldWind/WorldWindJava) - The NASA WorldWind Java SDK (WWJ) is for building cross-platform 3D geospatial desktop applications in Java.
+- [map-matching](https://github.com/graphhopper/map-matching) - The map matching functionality is now located in the main repository https://github.com/graphhopper/graphhopper#map-matching
+- [incubator-sedona](https://github.com/apache/incubator-sedona) - A cluster computing framework for processing large-scale geospatial data
 - [ORCID-Source](https://github.com/ORCID/ORCID-Source) - ORCID Open Source Project
 - [graal](https://github.com/oracle/graal) - GraalVM: Run Programs Faster Anywhere :rocket:
 - [webdrivermanager](https://github.com/bonigarcia/webdrivermanager) - Automated driver management for Selenium WebDriver
@@ -2035,6 +2054,14 @@
 
 ## JavaScript 
 
+- [pxi](https://github.com/Yord/pxi) - 🧚 pxi (pixie) is a small, fast, and magical command-line data processor similar to jq, mlr, and awk.
+- [Cesium-GeoserverTerrainProvider](https://github.com/kaktus40/Cesium-GeoserverTerrainProvider) - plug in to use geoserver as terrain provider
+- [WorldWindServerKit](https://github.com/NASAWorldWind/WorldWindServerKit) - The NASA WorldWind Server Kit (WWSK) is an open source Java project that assembles GeoServer for easy distribution and implementation.
+- [WebWorldWind](https://github.com/NASAWorldWind/WebWorldWind) - The NASA WorldWind Javascript SDK (WebWW) includes the library and examples for creating geo-browser web applications and for embedding a 3D globe in HTML5 web pages.
+- [AgentMaps](https://github.com/noncomputable/AgentMaps) - Make social simulations on interactive maps with Javascript! Agent-based modeling for the web.
+- [editor](https://github.com/maputnik/editor) - An open source visual editor for the 'Mapbox Style Specification'
+- [cartodb](https://github.com/CartoDB/cartodb) - Location Intelligence & Data Visualization tool
+- [geolib](https://github.com/manuelbieh/geolib) - Zero dependency library to provide some basic geo functions
 - [QB](https://github.com/QuickBox/QB) - QuickBox is much more than a ‘seedbox installer script’, it is a simplistic approach to achieving easy seedbox and services management from a beautifully designed dashboard. Allowing users the ability to interact with their seedbox and server on a professional grade level.
 - [Tdarr](https://github.com/HaveAGitGat/Tdarr) - Tdarr - Distributed transcode automation using FFmpeg/HandBrake + Audio/Video library analytics + video health checking (Windows, macOS, Linux & Docker)
 - [maildev](https://github.com/maildev/maildev) - :mailbox: SMTP Server + Web Interface for viewing and testing emails during development.
@@ -2865,6 +2892,7 @@
 
 ## Jupyter Notebook 
 
+- [kepler.gl](https://github.com/keplergl/kepler.gl) - Kepler.gl is a powerful open source geospatial analysis tool for large-scale data sets.
 - [introtodeeplearning](https://github.com/aamini/introtodeeplearning) - Lab Materials for MIT 6.S191: Introduction to Deep Learning
 - [deepmind-research](https://github.com/deepmind/deepmind-research) - This repository contains implementations and illustrative code to accompany DeepMind publications
 - [handson-ml2](https://github.com/ageron/handson-ml2) - A series of Jupyter notebooks that walk you through the fundamentals of Machine Learning and Deep Learning in Python using Scikit-Learn, Keras and TensorFlow 2.
@@ -2973,6 +3001,7 @@
 
 ## Makefile 
 
+- [docker](https://github.com/georchestra/docker) - Quick start geOrchestra with docker
 - [project-layout](https://github.com/golang-standards/project-layout) - Standard Go Project Layout
 - [aws-vault-alfred-workflow](https://github.com/kangaechu/aws-vault-alfred-workflow) - Alfred workflow to Open AWS in your browser via aws-vault
 - [chromium-headless-remote](https://github.com/deepsweet/chromium-headless-remote) - 🐳 Dockerized Chromium in headless remote debugging mode
@@ -3027,6 +3056,7 @@
 
 ## Objective-C 
 
+- [Soundflower-Original](https://github.com/RogueAmoeba/Soundflower-Original) - MacOS system extension that allows applications to pass audio to other applications.
 - [Hosts.prefpane](https://github.com/specialunderwear/Hosts.prefpane) - a Cocoa GUI for /etc/hosts
 - [vftool](https://github.com/evansm7/vftool) - A simple macOS Virtualisation.framework wrapper
 - [tcping](https://github.com/paradiseduo/tcping) - tcping command, written with Objective-C, on macOS,tcping for mac,ping over a tcp connection
@@ -3687,6 +3717,7 @@
 
 ## PLpgSQL 
 
+- [postgis](https://github.com/postgis/postgis) - PostGIS spatial database extension to PostgreSQL [mirror]
 - [openmaptiles](https://github.com/openmaptiles/openmaptiles) - OpenMapTiles Vector Tile Schema Implementation
 - [pgwatch2](https://github.com/cybertec-postgresql/pgwatch2) - PostgreSQL metrics monitor/dashboard
 - [wikipedia-mirror](https://github.com/pirate/wikipedia-mirror) - 🌐 Guide and tools to run a full offline mirror of Wikipedia.org with three different approaches: Nginx caching proxy, Kimix + ZIM dump, and MediaWiki/XOWA + XML dump
@@ -3767,6 +3798,17 @@
 
 ## Python 
 
+- [Depix](https://github.com/beurtschipper/Depix) - Recovers passwords from pixelized screenshots
+- [raster-vision](https://github.com/azavea/raster-vision) - An open source framework for deep learning on satellite and aerial imagery.
+- [felicette](https://github.com/plant99/felicette) - Satellite imagery for dummies.
+- [BlenderGIS](https://github.com/domlysz/BlenderGIS) - Blender addons to make the bridge between Blender and geographic data
+- [pyroSAR](https://github.com/johntruckenbrodt/pyroSAR) - framework for large-scale SAR satellite data processing
+- [polar2grid](https://github.com/ssec/polar2grid) - Tools for reading, remapping, and writing satellite instrument data.
+- [Fiona](https://github.com/Toblerity/Fiona) - Fiona reads and writes geographic data files
+- [rasterio](https://github.com/mapbox/rasterio) - Rasterio reads and writes geospatial raster datasets
+- [osmnx](https://github.com/gboeing/osmnx) - OSMnx: Python for street networks. Retrieve, model, analyze, and visualize street networks and other spatial data from OpenStreetMap.
+- [Pragmatic-Guide-to-Geoparsing-Evaluation](https://github.com/milangritta/Pragmatic-Guide-to-Geoparsing-Evaluation) - Full resources supporting the publication "A Pragmatic Guide to Geoparsing Evaluation."
+- [plex_autoscan](https://github.com/l3uddz/plex_autoscan) - Script to assist sonarr/radarr with plex imports. Will only scan the folder that has been imported, instead of the whole library section.
 - [Proxmox-Encrypted-Remote-Backup](https://github.com/farthinder/Proxmox-Encrypted-Remote-Backup) - Encrypt and upload Proxmox VM backups to rclone remotes
 - [home-assistant-arpscan_tracker](https://github.com/cyberjunky/home-assistant-arpscan_tracker) - This component tracks devices using the arp-scan liinux command, it's very fast, and reasonably accurate.
 - [prophet](https://github.com/facebook/prophet) - Tool for producing high quality forecasts for time series data that has multiple seasonality with linear or non-linear growth.
@@ -3861,7 +3903,7 @@
 - [english-please](https://github.com/us/english-please) - Offer for repositories whose README are written in Chinese.
 - [HelloGitHub](https://github.com/arbal/HelloGitHub) - :octocat: Find pearls on open-source seashore 分享 GitHub 上有趣、入门级的开源项目
 - [starred](https://github.com/arbal/starred) - creating your own Awesome List by GitHub stars!
-- [HelloGitHub](https://github.com/521xueweihan/HelloGitHub) - :octocat: Find pearls on open-source seashore 分享 GitHub 上有趣、入门级的开源项目
+- [HelloGitHub](https://github.com/521xueweihan/HelloGitHub) - :octocat: Find pearls on open-source seashore 分享 GitHub 上有趣、入门级的开源项目（5 周年）
 - [starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars!
 - [geotag2kml](https://github.com/forensenellanebbia/geotag2kml) - Creates a Google Earth .KML file from geotagged photos/videos
 - [PhotoScript](https://github.com/RhetTbull/PhotoScript) - Automate Apple / MacOS Photos app with python. Wraps applescript calls in python to allow automation of Photos from python code.
@@ -4440,7 +4482,7 @@
 - [hackertarget](https://github.com/pyhackertarget/hackertarget) - 🎯 HackerTarget ToolKit - Tools And Network Intelligence To Help Organizations With Attack Surface Discovery 🎯
 - [autoscraper](https://github.com/alirezamika/autoscraper) - A Smart, Automatic, Fast and Lightweight Web Scraper for Python
 - [CenterNet](https://github.com/xingyizhou/CenterNet) - Object detection, 3D detection, and pose estimation using center point detection:
-- [insightface](https://github.com/deepinsight/insightface) - Face Analysis Project on MXNet
+- [insightface](https://github.com/deepinsight/insightface) - Face Analysis Project on MXNet and PyTorch
 - [awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) - A curated list of awesome Machine Learning frameworks, libraries and software.
 - [ansible-role-swarmpit](https://github.com/ohing504/ansible-role-swarmpit) - Ansible role to install Swarmpit
 - [registry-cli](https://github.com/andrey-pohilko/registry-cli) - Scripts for easy manipulation of docker-registry from command line (and from scripts)
@@ -5013,6 +5055,8 @@
 
 ## Ruby 
 
+- [omniauth](https://github.com/omniauth/omniauth) - OmniAuth is a flexible authentication system utilizing Rack middleware.
+- [world.db](https://github.com/worlddb/world.db) - world.db - open world database (world.db) command line tool and libraries
 - [securitytrails](https://github.com/ninoseki/securitytrails) - SecurityTrails API wrapper for Ruby
 - [sidekiq-cron](https://github.com/ondrejbartas/sidekiq-cron) - Scheduler / Cron for Sidekiq jobs
 - [homebrew-tap](https://github.com/nextdns/homebrew-tap) - 
@@ -5138,6 +5182,8 @@
 
 ## Rust 
 
+- [choose](https://github.com/theryangeary/choose) - A human-friendly and fast alternative to cut and (sometimes) awk
+- [geo](https://github.com/georust/geo) - Geospatial primitives and algorithms for Rust
 - [astro-dnssd](https://github.com/AstroHQ/astro-dnssd) - Simple Rust wrapper around DNS-SD
 - [ballista](https://github.com/ballista-compute/ballista) - Distributed compute platform implemented in Rust, and powered by Apache Arrow.
 - [juniper](https://github.com/graphql-rust/juniper) - GraphQL server library for Rust
@@ -5295,6 +5341,7 @@
 
 ## Shell 
 
+- [xxh-plugin-zsh-ohmyzsh](https://github.com/xxh/xxh-plugin-zsh-ohmyzsh) - Oh my zsh plugin for xxh zsh
 - [traefikv2apps](https://github.com/doob187/traefikv2apps) - TreafikV2 Apps with Authelia over Cloudflare
 - [synology-monitoring](https://github.com/kernelkaribou/synology-monitoring) - Simple script for capturing SNMP stats to influxdb and viewing Synology NAS health in Grafana
 - [yoda](https://github.com/Muvon/yoda) - Simple tool to dockerize and manage deployment of your project
@@ -6052,6 +6099,8 @@
 
 ## TypeScript 
 
+- [L7](https://github.com/antvis/L7) - 🌎 Large-scale WebGL-powered Geospatial Data Visualization analysis framework which relies on Mapbox GL  or AMap to render basemaps.
+- [geocoder](https://github.com/goparrot/geocoder) - Geocoder is a Typescript library which helps you build geo-aware applications by providing a powerful abstraction layer for geocoding manipulations
 - [mdns-tunneller](https://github.com/toxuin/mdns-tunneller) - Tunnels two (or more) mDNS domains together
 - [wayne](https://github.com/Qihoo360/wayne) - Kubernetes multi-cluster management and publishing platform
 - [vite](https://github.com/vitejs/vite) - Next generation frontend tooling. It's fast!
